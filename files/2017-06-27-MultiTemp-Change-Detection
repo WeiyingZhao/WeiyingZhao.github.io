@@ -1,9 +1,0 @@
-@inproceedings{daudt2018detection,
-  title={D\'{e}tection Dense de Changements par R\'{e}seaux de Neurones Siamois},
-  author={{Caye Daudt}, R. and {Le Saux}, B. and Boulch, A. and Gousseau, Y.},
-  booktitle={Reconnaissance des Formes, Image, Apprentissage et Perception (RFIAP)},
-  venue =  {Paris, France},
-  year={2018},
-  month = {June}
-}
-
