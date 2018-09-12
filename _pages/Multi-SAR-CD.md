@@ -7,3 +7,24 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+
+Change area detection
+======
+
+
+
+
+Change magnitude detection
+======
+
+
+Change classification
+======
+
+
+Change time detection
+======
+
+
+
