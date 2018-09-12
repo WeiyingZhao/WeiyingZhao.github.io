@@ -10,39 +10,39 @@ author_profile: true
 
 This work is suppervised by [Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Henri Maître](https://perso.telecom-paristech.fr/maitre/).
 
-# Change area detection
+# 1. Change area detection
 
-## Method introduction
+## 1.1 Method introduction
 
-## Experimental results
+## 1.2 Experimental results
 ![changeAreaDetection](/images/changeAreaDetection.png)
 
 
 
-# Change magnitude detection
+# 2. Change magnitude detection
 
-## Method introduction
+## 2.1 Method introduction
 
-## Experimental results
+## 2.2 Experimental results
 
 ![changeMagnitudeDetection](/images/changeMagnitudeDetection.png)
 
 
 
-# Change classification
+# 3. Change classification
 
-## Method introduction
+## 3.1 Method introduction
 
-## Experimental results
+## 3.2 Experimental results
 
 ![changeClassification](/images/changeClassification.png)
 
 
-# Change time detection
+# 4. Change time detection
 
-## Method introduction
+## 4.1 Method introduction
 
-## Experimental results
+## 4.2 Experimental results
 
 ![changeTimeDetection](/images/changeTimeDetection.png)
 
