@@ -40,12 +40,14 @@ author_profile: true
 
 # Change time detection
 
-![changeTimeDetection](/images/changeTimeDetection.png)
-
-
 ## Method introduction
 
 ## Experimental results
+
+![changeTimeDetection](/images/changeTimeDetection.png)
+
+
+
 
 
 
