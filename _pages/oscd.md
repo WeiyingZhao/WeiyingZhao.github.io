@@ -30,7 +30,7 @@ Experimental results
 ======
 
 
-![NoisyImg](/images/NoisyImg.png)[superImg](/images/superImg.png)
+![NoisyImg](/images/NoisyImg.png)![superImg](/images/superImg.png)
 
 
 
