@@ -49,7 +49,7 @@ Experimental results
 ![NoisySuperImg](/images/NoisySuperImg.png)
 Figure 2. Noisy image and denoised super-image.
 
-![DNoisyImg](/images/DNoisyImg.png)
+![DNoisyImg](/images/DNoisyImg1.png)
 
 Figure 3. Denoised image
 
