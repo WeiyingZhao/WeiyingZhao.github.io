@@ -36,7 +36,7 @@ Vocational experience
   
 Main Skills
 ======
-* Programming: MATLAB, Python, PyTorch, C, C++.
+* Programming: MATLAB, Python, C, C++.
 * Tools: LaTeX, OpenOffice, Microsoft Window, Linux.
 * Languages: Chinese, English, French (basic).
 
