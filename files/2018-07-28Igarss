@@ -1,0 +1,8 @@
+@inproceedings{zhao2018rabasar,
+  title={RABASAR: A FAST RATIO BASED MULTI-TEMPORAL SAR DESPECKLING},
+  author={Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F.},
+  booktitle={IEEE International Geoscience and Remote Sensing Symposium, IGARSS 2018},
+  venue =  {Valencia, Spain},
+  month = {July},
+  year = {2018},
+}
