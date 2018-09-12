@@ -21,7 +21,7 @@ Thanks to the spatial stationarity improvement in the ratio images, denoising th
 method is more effective than denoising the original multitemporal stack. The data volume to be processed is also reduced compared to other methods through the use of the “superimage”.
 
 ![Flowchart](/images/flowchart2.png)
-
+Multi-temporal SAR image denoising framework
 
 
 
