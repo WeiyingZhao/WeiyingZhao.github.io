@@ -1,9 +1,9 @@
 ---
 title: "Ratio-based multi-temporal SAR images denoising"
 collection: publications
-permalink: /publication/2017-12-01-SAR-Decomposition1
+permalink: /publication/2018-01-01-SAR-Decomposition1
 # excerpt: 'Zhao, Weiying and Denis, Lo{\"\i}c and Deledalle, Charles-Alban and Maitre, Henri and Nicolas, Jean-Marie and Tupin, Florence.'
-date: 2017-12-01
+date: 2018-01-01
 venue: '(under revision)'
 # paperurl: ''
 # citation: 'Zhao, Weiying and Denis, Lo{\"\i}c and Deledalle, Charles-Alban and Maitre, Henri and Nicolas, Jean-Marie and Tupin, Florence'
