@@ -9,7 +9,7 @@ venue: 'Traitement du Signal (GRETSI, Lavoisier) (accepted)'
 # citation: 'Sylvain Lobry, Loïc Denis, Florence Tupin, Weiying Zhao'
 ---
 
-[[PDF]](http://WeiyingZhao.github.io/files/2018rfiap.pdf) [[BibTeX]](http://WeiyingZhao.github.io/files/daudt2018detection.bib)
+[[PDF]](http://WeiyingZhao.github.io/files/2018rfiap.pdf) [[BibTeX]](http://WeiyingZhao.github.io/files/2017SARDecomposition.bib)
 
 Authors: Sylvain Lobry, Loïc Denis, Florence Tupin, Weiying Zhao
 
