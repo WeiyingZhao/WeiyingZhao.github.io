@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [Télécom ParisTech (LTCI/IMAGES)](https://www.telecom-paristech.fr/) under the supervision of [Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Henri Maître] (https://perso.telecom-paristech.fr/maitre/).
+I am a PhD student at [Télécom ParisTech (LTCI/IMAGES)](https://www.telecom-paristech.fr/) under the supervision of [Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Henri Maître](https://perso.telecom-paristech.fr/maitre/).
 
 
 My main research interests include multitemporal
