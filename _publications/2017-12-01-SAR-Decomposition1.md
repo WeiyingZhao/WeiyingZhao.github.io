@@ -1,25 +1,25 @@
 ---
-title: "Décomposition de séries temporelles d’images SAR pour la détection de changement"
+title: "Ratio-based multi-temporal SAR images denoising"
 collection: publications
 permalink: /publication/2017-12-01-SAR-Decomposition1
-# excerpt: 'Sylvain Lobry, Loïc Denis, Florence Tupin, Weiying Zhao.'
-date: 2017-12-22
-venue: 'Traitement du Signal (GRETSI, Lavoisier) (accepted)'
+# excerpt: 'Zhao, Weiying and Denis, Lo{\"\i}c and Deledalle, Charles-Alban and Maitre, Henri and Nicolas, Jean-Marie and Tupin, Florence.'
+date: 2017-12-01
+venue: '(under revision)'
 # paperurl: ''
-# citation: 'Sylvain Lobry, Loïc Denis, Florence Tupin, Weiying Zhao'
+# citation: 'Zhao, Weiying and Denis, Lo{\"\i}c and Deledalle, Charles-Alban and Maitre, Henri and Nicolas, Jean-Marie and Tupin, Florence'
 ---
 
-[[BibTeX]](http://WeiyingZhao.github.io/files/2017SARDecomposition.bib)
+[[BibTeX]](http://WeiyingZhao.github.io/files/2018-01-07-MultiTempDenoising.bib)
 
-Authors: Sylvain Lobry, Loïc Denis, Florence Tupin, Weiying Zhao
+Authors: Zhao, Weiying and Denis, Lo{\"\i}c and Deledalle, Charles-Alban and Maitre, Henri and Nicolas, Jean-Marie and Tupin, Florence
 
 ```
-@inproceedings{Lobry2017detection,
-  title={D\'{e}tection Dense de Changements par R\'{e}seaux de Neurones Siamois},
-  author={ Lobry, S.,  Denis, L., Tupin, F. and Zhao, W.},
-  booktitle={Traitement du Signal (GRETSI, Lavoisier) (accepted)},
-  year={2017},
-  month = {December}
+@inproceedings{zhao2018ratio,
+  title={Ratio-based multi-temporal SAR images denoising},
+  author={Zhao, W., Denis, L., Deledalle, C.A., Maitre, H., Nicolas, J-M. and Tupin, F.},
+  booktitle={(under revision)},
+  year={2018},
+  month = {January}
 }
 
 ```
