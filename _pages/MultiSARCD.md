@@ -19,7 +19,7 @@ This work is suppervised by [Florence Tupin](https://perso.telecom-paristech.fr/
 Based on RABASAR provided data which have spatial varying ENL, we propose a simplified generalized log-likelihood ratio test (SGLR) method assuming that corresponding temporal pixels have the same equivalent number of looks (ENL). During the test, chi-squared  probability distribution function is utilized to theoretically define the false alarm rate. 
 
 
-![changeAreaDetection](/images/changeAreaDetection1.png)
+![changeAreaDetection](/images/changeAreaDetection2.png)
 
 Figure 1. Sendai SAR image pair change detection comparison. (a) noisy image acquired in 06/05/2011, (b) noisy image acquired in  08/06/2011, (c) optical image acquired in 06/04/2011, (d) RGB combination of the noisy images, (e) MIMOSA detection results with a priori FAR equal to 1%, (f) CGLRT detection results with 2SPPB  data, (g) SGLR detection results with RABASAR-DAM  data, (h) SGLR detection results with RABASAR-DBWAM  data.
 
