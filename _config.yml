@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Weiying ZHAO"
+title                    : "Weiying Zhao"
 title_separator          : "-"
-name                     : &name "Weiying ZHAO"
+name                     : &name "Weiying Zhao"
 description              : &description "PhD student at Télécom ParisTech"
 url                      : https://weiyingzhao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Weiying ZHAO"
+  name             : "Weiying Zhao"
   avatar           : "profile1.png"
   bio              : "PhD student at Télécom ParisTech"
   location         : "Paris, France"
