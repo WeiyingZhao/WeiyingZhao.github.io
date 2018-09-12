@@ -13,11 +13,11 @@ Principle of the proposed method
 ======
 The proposed approach can be divided into three steps: 
 
-    1)calculation of the “super-image” through temporal averaging; 
+   * calculation of the “super-image” through temporal averaging; 
     
-    2)denoising the ratio images formed through dividing the noisy images by the “super-image”; 
+   * denoising the ratio images formed through dividing the noisy images by the “super-image”; 
     
-    3)computing denoised images by multiplying the denoised ratio images with the “super-image”.
+   * computing denoised images by multiplying the denoised ratio images with the “super-image”.
 
 Thanks to the spatial stationarity improvement in the ratio images, denoising these ratio images with a speckle-reduction
 method is more effective than denoising the original multitemporal stack. The data volume to be processed is also reduced compared to other methods through the use of the “superimage”.
@@ -68,8 +68,8 @@ Links
 ======
 You can find the dataset on IEEE GRSS DASE webpages:
 
-* [http://dase.ticinumaerospace.com/](http://dase.ticinumaerospace.com/)
-* [http://dase.grss-ieee.org/](http://dase.grss-ieee.org/)
+#* [http://dase.ticinumaerospace.com/](http://dase.ticinumaerospace.com/)
+#* [http://dase.grss-ieee.org/](http://dase.grss-ieee.org/)
 
 
 
