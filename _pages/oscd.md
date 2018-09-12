@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+This work is cooperated with [Loïc Denis](https://perso.univ-st-etienne.fr/deniloic/), [Charles-Alban Deledalle](https://www.math.u-bordeaux.fr/~cdeledal/), [Henri Maître](https://perso.telecom-paristech.fr/maitre/), [Jean-Marie Nicolas](https://perso.telecom-paristech.fr/nicolas/) and [Florence Tupin](https://perso.telecom-paristech.fr/tupin/).
+
 Principle of the proposed method
 ======
 The proposed approach can be divided into three steps: 
@@ -15,7 +17,7 @@ The proposed approach can be divided into three steps:
     
     2)denoising the ratio images formed through dividing the noisy images by the “super-image”; 
     
-    3) computing denoised images by multiplying the denoised ratio images with the “super-image”.
+    3)computing denoised images by multiplying the denoised ratio images with the “super-image”.
 
 Thanks to the spatial stationarity improvement in the ratio images, denoising these ratio images with a speckle-reduction
 method is more effective than denoising the original multitemporal stack. The data volume to be processed is also reduced compared to other methods through the use of the “superimage”.
@@ -23,6 +25,9 @@ method is more effective than denoising the original multitemporal stack. The da
 ![Flowchart](/images/flowchart2.png)
 Multi-temporal SAR image denoising framework
 
+
+Experimental results
+======
 
 
 
