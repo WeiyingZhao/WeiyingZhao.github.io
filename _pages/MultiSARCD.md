@@ -38,6 +38,8 @@ Figure 2. Cumulative change detection results. (a) the reference images divided 
 
 During the time series acquisition, the changes may occur multiple times and in dif-ferent change magnitudes. To detect the change types, we propose an improved change classification method inspired by NORCAMA method [Su et al., 2015] and spectral clustering method [Shi and Malik, 2000, Ng et al., 2002]. In practice, the change types aretransferred into partitioning problem and detected using spectral clustering.
 
+The proposed method is similar to normalized cut method [Shi and Malik, 2000,Su et al., 2015]. However, they normalize the rows of A(s) to sum to 1 and use its eigenvectors instead of the normalized Laplacian matrix. In addition, they do not re-normalize the rows of U (the k largest eigenvalues) to unit length [Ng et al., 2002].
+
 ![changeClassification](/images/changeClassification.png)
 
 
