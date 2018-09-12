@@ -47,9 +47,39 @@ Figure 3. Sentinel-1 time series change classification. (a-f) Sentinel-1 images,
 
 # 4. Change time detection
 
+Change time detection is significant for land surface monitoring. Normally, changes
+may represent transitions that occur between states [Aminikhanghahi and Cook, 2017].
+Currently, REACTIV method [Koeniguer et al., 2018, Koeniguer et al.] is a simple and
+high efficient time series change detection algorithm. It is based on HSV visualization
+space and exploits only time domain estimates without any spatial estimation. The color
+saturation is coded by the coefficient of variation temporal.
 
+However, the detection results is highly corrupted by its speckle noise. Even using some
+state-of-the-art denoising methods, the bias estimation in vegetation area still prohibit
+REACTIV provide the best performance. In addition, the color in REACTIV results
+represent the appearing date of maximum intensity values which can not indicate the
+change times.
+
+We improved REACTIV method with the proposed
+denoising results. In addition, we will apply generalized likelihood ratio test to this framework to detect the change starting and ending time, the maximum change magnitude
+time and the maximum change significance time.
+
+The principle of the method is to exploit the HSV color space, where the hue channel H
+represents the time, the saturation channel S is coding the temporal coefficient of variation,
+and the value V corresponds to a notion of conventional radar intensity.
+
+
+We  applied the proposed method to  flooding area monitoring.
 
 ![changeTimeDetection](/images/changeTimeDetection.png)
+
+Figure 4. Flooding area change time detection comparison with 9 Sentinel-1 GRD
+data. The images are acquired over Xe-Pian Xe-Namnoy dam in the southeastern province
+of Attapeu in Laos. 87 temporal Sentinel-1 GRD images are used for the preparation of
+the arithmetic mean image. All the test images are provided by RABASAR-AM.
+
+
+
 
 
 
