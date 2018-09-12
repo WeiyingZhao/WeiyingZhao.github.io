@@ -8,6 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
+This work is suppervised by [Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Henri Maître](https://perso.telecom-paristech.fr/maitre/).
 
 # Change area detection
 
