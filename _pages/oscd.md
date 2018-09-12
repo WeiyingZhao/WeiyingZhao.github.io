@@ -7,8 +7,23 @@ author_profile: true
 
 {% include base_path %}
 
-The Dataset
+Principle of the proposed method
 ======
+The proposed approach can be divided into three steps: 
+    1)calculation of the “super-image” through temporal averaging; 
+    2)denoising the ratio images formed through dividing the noisy images by the “super-image”; 
+   3) computing denoised images by multiplying the denoised ratio images with the “super-image”.
+
+Thanks to the spatial stationarity improvement in the ratio images, denoising these ratio images with a speckle-reduction
+method is more effective than denoising the original multitemporal stack. The data volume to be processed is also reduced compared to other methods through the use of the “superimage”.
+
+![Flowchart](/images/beirut-conc.png)
+
+
+
+
+
+
 The Onera Satellite Change Detection dataset addresses the issue of detecting changes between satellite images from different dates.
 
 It comprises 24 pairs of multispectral images taken from the [Sentinel-2 satellites](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) between 2015 and 2018. Locations are picked all over the world, in Brazil, USA, Europe, Middle-East and Asia. For each location, registered pairs of 13-band multispectral satellite images obtained by the Sentinel-2 satellites are provided. Images vary in spatial resolution between 10m, 20m and 60m.
