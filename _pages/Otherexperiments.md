@@ -7,5 +7,6 @@ author_profile: true
 
 # 1. Long time series SAR image denoising and change detection
 
+Related paper will be prepared and released.
 
 # 2. Deep learning based change detection
