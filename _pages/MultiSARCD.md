@@ -18,6 +18,7 @@ This work is suppervised by [Florence Tupin](https://perso.telecom-paristech.fr/
 
 Based on RABASAR provided data which have spatial varying ENL, we propose a simplified generalized log-likelihood ratio test (SGLR) method assuming that corresponding temporal pixels have the same equivalent number of looks (ENL). During the test, chi-squared  probability distribution function is utilized to theoretically define the false alarm rate. 
 
+To  compare  with  the  state-of-the-art change  detection methods,  we  processed popular used TerraSAR-X images acquired over Sendai. The changed areas in the imagesmainly have large magnitude changes. 9 temporal well registered images are used for thepreparation of denoised data, both for 2SPPB method and for RABASAR method. Onlythe two images which were acquired in 06/05/2011 and 08/06/2011 are used for the changedetection.
 
 ![changeAreaDetection](/images/changeAreaDetection2.png)
 
