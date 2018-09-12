@@ -42,8 +42,9 @@ In all situations, ratio image with less structures and variations than an origi
 
 Experimental results
 ======
+   *31 Sentinel-1 images which are downloaded from [Sentinel open access hub](https://sentinels.copernicus.eu/web/sentinel/sentinel-data-access) are used.
 
-MuLog-BM3D method is used to denoise the super-image which is acquired through temporal averaging 31 Sentinel-1 images. 
+   *MuLog-BM3D method is used to denoise the super-image which is acquired through temporal averaging 31 Sentinel-1 images. 
 
 ![NoisySuperImg](/images/NoisySuperImg.png)
 Figure 2. Noisy image and denoised super-image.
@@ -57,21 +58,11 @@ Figure 3. Denoised image
 
 
 
-It comprises 24 pairs of multispectral images taken from the [Sentinel-2 satellites](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) between 2015 and 2018. Locations are picked all over the world, in Brazil, USA, Europe, Middle-East and Asia. For each location, registered pairs of 13-band multispectral satellite images obtained by the Sentinel-2 satellites are provided. Images vary in spatial resolution between 10m, 20m and 60m.
 
-Pixel-level change ground truth is provided for 14 of the image pairs. The annotated changes focus on urban changes, such as new buildings or new roads. These data can be used for training and setting parameters of change detection algorithms.
 
-![Beirut images](/images/beirut-conc.png)
-Example: "beirut" image pair and associated change map.
-
-The Benchmark
-======
-
-The ground truth for the 10 remaining images remain undisclosed. Change prediction maps can be uploaded for evaluation on the [IEEE GRSS DASE website](http://dase.ticinumaerospace.com/). Various metrics such as per-class accuracy and confusion matrices are automatically computed on the website, and are available for participants. Comparison to the best performing methods is provided in the leaderboard associated with this benchmark.
   
 References
 ======
-If you use this work for your projects, please take the time to cite our paper:
 
 [*Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks*, R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau. IEEE International Geoscience and Remote Sensing Symposium (IGARSS’2018). Valencia, Spain. July 2018.](https://rcdaudt.github.io/publication/2018-08-22-urban-change-detection)
 
@@ -80,20 +71,6 @@ If you use this work for your projects, please take the time to cite our paper:
 
 Links
 ======
-You can find the dataset on IEEE GRSS DASE webpages:
 
-#* [http://dase.ticinumaerospace.com/](http://dase.ticinumaerospace.com/)
-#* [http://dase.grss-ieee.org/](http://dase.grss-ieee.org/)
-
-
-
-
-
-The Team
-======
-* [Rodrigo Caye Daudt](https://rcdaudt.github.io/), rodrigo.daudt@onera.fr
-* [Bertrand Le Saux](https://blesaux.github.io/), bertrand.le_saux@onera.fr
-* [Alexandre Boulch](https://aboulch.github.io/), alexandre.boulch@onera.fr
-* [Yann Gousseau](https://perso.telecom-paristech.fr/gousseau/), yann.gousseau@telecom-paristech.fr
   
 
