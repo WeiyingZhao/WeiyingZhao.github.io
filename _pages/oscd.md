@@ -52,7 +52,6 @@ Example: "beirut" image pair and associated change map.
 
 The Benchmark
 ======
-The algorithms can be tested in a benchmark for change detection.
 
 The ground truth for the 10 remaining images remain undisclosed. Change prediction maps can be uploaded for evaluation on the [IEEE GRSS DASE website](http://dase.ticinumaerospace.com/). Various metrics such as per-class accuracy and confusion matrices are automatically computed on the website, and are available for participants. Comparison to the best performing methods is provided in the leaderboard associated with this benchmark.
   
