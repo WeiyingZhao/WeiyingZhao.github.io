@@ -10,7 +10,6 @@ author_profile: true
 
 
 # Change area detection
-====
 
 ## Method introduction
 
