@@ -14,11 +14,11 @@ This work is suppervised by [Florence Tupin](https://perso.telecom-paristech.fr/
 
 # 1. Change area detection
 
-## 1.1 Method introduction
 
-Based on RABASAR provided data which have spatial varying ENL, we propose a simplified log-likelihood ratio test method. During the test, chi-squared distributed probability function is utilized to theoretically define the false alarm rate. 
 
-## 1.2 Experimental results
+Based on RABASAR provided data which have spatial varying ENL, we propose a simplified log-likelihood ratio test method assuming that corresponding temporal pixels have the same equivalent number of looks (ENL). During the test, chi-squared distributed probability function is utilized to theoretically define the false alarm rate. 
+
+
 ![changeAreaDetection](/images/changeAreaDetection.png)
 
 
