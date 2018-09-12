@@ -2,11 +2,11 @@
 ---
 title: "Décomposition de séries temporelles d’images SAR pour la détection de changement"
 collection: publications
-#permalink: /publication/2017-12-01-SAR-Decomposition
+permalink: /publication/2017-12-01-SAR-Decomposition
 # excerpt: 'Sylvain Lobry, Loïc Denis, Florence Tupin, Weiying Zhao'
 venue: 'Traitement du Signal (GRETSI, Lavoisier) (accepted)'
 # paperurl: 'http://WeiyingZhao.github.io/files/2017-MultiTemp-Change-Detection.pdf'
-# citation: 'Sylvain Lobry, Loïc Denis, Florence Tupin, Weiying Zhao'
+citation: 'Sylvain Lobry, Loïc Denis, Florence Tupin, Weiying Zhao'
 ---
 
 [[PDF]]() [[BibTeX]]()
