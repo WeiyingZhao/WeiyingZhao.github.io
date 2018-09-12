@@ -72,6 +72,6 @@ References
 
 Code links
 ======
-[MuLog-BM3D](https://www.math.u-bordeaux.fr/~cdeledal/mulog.php):https://www.math.u-bordeaux.fr/~cdeledal/mulog.php
+[MuLog-BM3D](https://www.math.u-bordeaux.fr/~cdeledal/mulog.php): https://www.math.u-bordeaux.fr/~cdeledal/mulog.php
   
 
