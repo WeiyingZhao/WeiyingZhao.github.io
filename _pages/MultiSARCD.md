@@ -20,6 +20,7 @@ Based on RABASAR provided data which have spatial varying ENL, we propose a simp
 
 
 ![changeAreaDetection](/images/changeAreaDetection.png)
+
 Figure 1. Sendai SAR image pair change detection comparison. (a) noisy image acquired in 06/05/2011, (b) noisy image acquired in  08/06/2011, (c) optical image acquired in 06/04/2011, (d) RGB combination of the noisy images, (e) MIMOSA detection results with a priori FAR equal to 1%, (f) CGLRT detection results with 2SPPB  data, (g) SGLR detection results with RABASAR-DAM  data, (h) SGLR detection results with RABASAR-DBWAM  data.
 
 
