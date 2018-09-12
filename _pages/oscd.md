@@ -20,7 +20,7 @@ The proposed approach can be divided into three steps:
 Thanks to the spatial stationarity improvement in the ratio images, denoising these ratio images with a speckle-reduction
 method is more effective than denoising the original multitemporal stack. The data volume to be processed is also reduced compared to other methods through the use of the “superimage”.
 
-![Flowchart](/images/beirut-conc.png)
+![Flowchart](/images/flowchart2.png)
 
 
 
