@@ -27,7 +27,7 @@ method is more effective than denoising the original multitemporal stack. The da
 
 
 
-The Onera Satellite Change Detection dataset addresses the issue of detecting changes between satellite images from different dates.
+
 
 It comprises 24 pairs of multispectral images taken from the [Sentinel-2 satellites](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) between 2015 and 2018. Locations are picked all over the world, in Brazil, USA, Europe, Middle-East and Asia. For each location, registered pairs of 13-band multispectral satellite images obtained by the Sentinel-2 satellites are provided. Images vary in spatial resolution between 10m, 20m and 60m.
 
