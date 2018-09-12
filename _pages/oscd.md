@@ -20,7 +20,7 @@ The proposed approach can be divided into three steps:
    * computing denoised images by multiplying the denoised ratio images with the “super-image”.
 
 Thanks to the spatial stationarity improvement in the ratio images, denoising these ratio images with a speckle-reduction
-method is more effective than denoising the original multitemporal stack. The data volume to be processed is also reduced compared to other methods through the use of the “superimage”.
+method is more effective than denoising the original multitemporal stack. The data volume to be processed is also reduced compared to other methods through the use of the “super-image”.
 
 ![Flowchart](/images/flowchart2.png)
 Figure 1. Multi-temporal SAR image denoising framework
