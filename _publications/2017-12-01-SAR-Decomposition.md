@@ -5,11 +5,11 @@ permalink: /publication/2017-12-01-SAR-Decomposition
 # excerpt: 'Sylvain Lobry, Loïc Denis, Florence Tupin, Weiying Zhao.'
 date: 2017-12-22
 venue: 'Traitement du Signal (GRETSI, Lavoisier) (accepted)'
-# paperurl: 'http://WeiyingZhao.github.io/files/2018rfiap.pdf'
+# paperurl: ''
 # citation: 'Sylvain Lobry, Loïc Denis, Florence Tupin, Weiying Zhao'
 ---
 
-[[PDF]](http://WeiyingZhao.github.io/files/2018rfiap.pdf) [[BibTeX]](http://WeiyingZhao.github.io/files/2017SARDecomposition.bib)
+[[BibTeX]](http://WeiyingZhao.github.io/files/2017SARDecomposition.bib)
 
 Authors: Sylvain Lobry, Loïc Denis, Florence Tupin, Weiying Zhao
 
