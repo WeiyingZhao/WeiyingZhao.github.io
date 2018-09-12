@@ -64,9 +64,10 @@ Figure 3. Denoised image (enlarged)
 References
 ======
 
-[*Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks*, R. Caye Daudt, B. Le Saux, A. Boulch, Y. Gousseau. IEEE International Geoscience and Remote Sensing Symposium (IGARSS’2018). Valencia, Spain. July 2018.](https://rcdaudt.github.io/publication/2018-08-22-urban-change-detection)
+[*RABASAR: A FAST RATIO BASED MULTI-TEMPORAL SAR DESPECKLING*,Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F. IEEE International Geoscience and Remote Sensing Symposium (IGARSS’2018). Valencia, Spain. July 2018.](https://WeiyingZhao.github.io/publication/2018-07-22-igarss18-RABASAR)
 
-[[PDF]](http://rcdaudt.github.io/files/2018igarss-change-detection.pdf) [[BibTeX]](http://rcdaudt.github.io/files/daudt2018urban.bib)
+[[PDF]](http://WeiyingZhao.github.io/files/2018igarss-RABASAR.pdf) [[BibTeX]](http://WeiyingZhao.github.io/files/2018-07-22-igarss18RABASAR.bib)
+
 
 
 Links
