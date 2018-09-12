@@ -9,22 +9,36 @@ author_profile: true
 {% include base_path %}
 
 
-Change area detection
+# Change area detection
 ======
+## Method introduction
 
+## Experimental results
 
 
 
 Change magnitude detection
 ======
+## Method introduction
+
+## Experimental results
+
+
 
 
 Change classification
 ======
+## Method introduction
+
+## Experimental results
+
 
 
 Change time detection
 ======
+## Method introduction
+
+## Experimental results
 
 
 
