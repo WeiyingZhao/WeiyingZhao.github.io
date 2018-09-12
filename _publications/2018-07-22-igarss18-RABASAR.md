@@ -1,7 +1,7 @@
 ---
 title: "RABASAR: A FAST RATIO BASED MULTI-TEMPORAL SAR DESPECKLING"
 collection: publications
-#permalink: /publication/2018-08-22-urban-change-detection
+permalink: /publication/2018-07-22-igarss18-RABASAR.md
 # excerpt: 'Zhao, Weiying and Deledalle, Charles-Alban and Denis, Lo{\"\i}c and Ma{\^\i}tre, Henri and Nicolas, Jean-Marie and Tupin, Florence.'
 date: 2018-05-14
 venue: 'IEEE International Geoscience and Remote Sensing Symposium (IGARSS)'
