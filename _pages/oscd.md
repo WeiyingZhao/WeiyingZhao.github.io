@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Onera Satellite Change Detection Dataset"
+title: "RABASAR: A fast ratio based multi-temporal sar despeckling"
 permalink: /oscd/
 author_profile: true
 ---
