@@ -28,7 +28,7 @@ Figure 1. Sendai SAR image pair change detection comparison. (a) noisy image acq
 
 To distinguish  appearing and disappearing changes, we used a signum function sign(x) to convert SGLR values to corresponding positive values when x > 0 and negative values when x < 0. In this case, if we set the image acquired at time t as the reference image, the positive and negative values correspond to the increase and decrease of the object backscattering values.
 
-![changeMagnitudeDetection](/images/changeMagnitudeDetection.png)
+![changeMagnitudeDetection](/images/changeMagnitudeDetection2.png)
 
 Figure 2. Cumulative change detection results. (a) the reference images divided by the other images, (b) cumulative changes without object weights, (c) cumulative changes with object weights. The thresholds chosen for column (b) with Pfa=0.54% and Pfa=1% for column (c). The time intervals of the changes are shown above. Different colors  represent the decrease and increase of the backscattering values. The temporal images are denoised using RABASAR-DAM method.
 
