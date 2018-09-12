@@ -10,6 +10,7 @@ author_profile: true
 
 
 # Change area detection
+====
 
 ## Method introduction
 
@@ -17,7 +18,7 @@ author_profile: true
 
 
 
-Change magnitude detection
+# Change magnitude detection
 
 ## Method introduction
 
@@ -26,7 +27,7 @@ Change magnitude detection
 
 
 
-Change classification
+# Change classification
 
 ## Method introduction
 
@@ -34,7 +35,7 @@ Change classification
 
 
 
-Change time detection
+# Change time detection
 
 ## Method introduction
 
