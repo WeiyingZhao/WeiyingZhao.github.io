@@ -1,10 +1,10 @@
-
 ---
 layout: archive
 title: "Multitemporal SAR images change detection"
-permalink: /Multi-SAR-CD/
+permalink: /MultiSARCD/
 author_profile: true
 ---
+
 
 {% include base_path %}
 
