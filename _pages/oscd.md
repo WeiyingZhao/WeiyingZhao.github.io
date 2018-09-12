@@ -27,13 +27,13 @@ Figure 1. Multi-temporal SAR image denoising framework
 
 Interest of the ratio image 
 ---
-   *In case of temporally stable area and ENL of the super-image infinite
+   * In case of temporally stable area and ENL of the super-image infinite
    
-	ratio image = pure Gamma noise of mean 1
+	* ratio image = pure Gamma noise of mean 1
 
-   *In case of  a limited ENL and temporal variations
+   * In case of  a limited ENL and temporal variations
    
-	Fisher pdf that can be approximated by Gamma pdf
+	* Fisher pdf that can be approximated by Gamma pdf
 
 In all situations, ratio image with less structures and variations than an original SAR image  
 →   Easier to denoise !
