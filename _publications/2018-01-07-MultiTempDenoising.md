@@ -19,7 +19,7 @@ Authors: Zhao, Weiying and Denis, Lo{\"\i}c and Deledalle, Charles-Alban and Mai
   author={Zhao, W., Denis, L., Deledalle, C.A., Maitre, H., Nicolas, J-M. and Tupin, F.},
   booktitle={(under revision)},  
   year = {2018},
-  month = {},
+  month = {January},
 }
 ```
 
