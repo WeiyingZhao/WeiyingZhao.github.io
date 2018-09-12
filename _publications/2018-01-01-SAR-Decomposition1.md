@@ -5,11 +5,11 @@ permalink: /publication/2018-01-01-SAR-Decomposition1
 # excerpt: 'Zhao, Weiying and Denis, Lo{\"\i}c and Deledalle, Charles-Alban and Maitre, Henri and Nicolas, Jean-Marie and Tupin, Florence.'
 date: 2018-01-01
 venue: '(under revision)'
-# paperurl: ''
+# paperurl: 'http://WeiyingZhao.github.io/files/RatioSAR_denoising.pdf'
 # citation: 'Zhao, Weiying and Denis, Lo{\"\i}c and Deledalle, Charles-Alban and Maitre, Henri and Nicolas, Jean-Marie and Tupin, Florence'
 ---
 
-[[BibTeX]](http://WeiyingZhao.github.io/files/2018-01-07-MultiTempDenoising.bib)
+[[PDF]](http://WeiyingZhao.github.io/files/RatioSAR_denoising.pdf)[[BibTeX]](http://WeiyingZhao.github.io/files/2018-01-07-MultiTempDenoising.bib)
 
 Authors: Zhao, Weiying and Denis, Lo{\"\i}c and Deledalle, Charles-Alban and Maitre, Henri and Nicolas, Jean-Marie and Tupin, Florence
 
