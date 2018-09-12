@@ -9,7 +9,7 @@ venue: '2017 9th International Workshop on the Analysis of Multitemporal Remote 
 # citation: 'Zhao, Weiying and Lobry, Sylvain and Maitre, Henri and Nicolas, Jean-Marie and Tupin, Florence'
 ---
 
-[[PDF]](http://WeiyingZhao.github.io/files/2017-MultiTemp-Change-Detection.pdf) [[BibTeX]](http://rcdaudt.github.io/files/daudt2018detection.bib)
+[[PDF]](http://WeiyingZhao.github.io/files/2017-MultiTemp-Change-Detection.pdf) [[BibTeX]](http://rcdaudt.github.io/files/2017-06-27-MultiTemp-CD.bib)
 
 Authors: Zhao, Weiying and Lobry, Sylvain and Maitre, Henri and Nicolas, Jean-Marie and Tupin, Florence
 ```
