@@ -32,7 +32,6 @@ Experimental results
 
 ![NoisySuperImg](/images/NoisySuperImg.png)
 
-![ratioDratioImg](/images/ratioDratioImg.png)
 
 ![DNoisyImg](/images/DNoisyImg.png)
 
