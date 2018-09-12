@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Rodrigo Caye Daudt"
+title                    : "Weiying ZHAO"
 title_separator          : "-"
-name                     : &name "Rodrigo Caye Daudt"
-description              : &description "PhD student at ONERA and Télécom ParisTech"
-url                      : https://rcdaudt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Weiying ZHAO"
+description              : &description "PhD student at Télécom ParisTech"
+url                      : https://weiyingzhao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rcdaudt.github.io"
+repository               : "weiyingzhao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,27 +78,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rodrigo Caye Daudt"
-  avatar           : "profile.png"
-  bio              : "PhD student at ONERA and Télécom ParisTech"
+  name             : "Weiying ZHAO"
+  avatar           : "profile1.png"
+  bio              : "PhD student at Télécom ParisTech"
   location         : "Paris, France"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=zTwHChcAAAAJ&hl=en"
-  email            : "rodrigo(dot)daudt(at)onera(dot)fr"
-  uri              : "https://www.onera.fr/en/staff/rodrigo-daudt"
+  googlescholar    : "https://scholar.google.com"
+  email            : "zhaoweiyingnla(at)gmail(dot)com"
+  uri              : "https://perso.telecom-paristech.fr/tupin/radarteam/staffEN.php"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rcdaudt"
+  github           : "WeiyingZhao"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "rodrigo-daudt-b7b86b37"
-  orcid            : "http://orcid.org/0000-0002-4952-9736"
+  linkedin         : "weiying-zhao-806bb588"
+  orcid            : "https://orcid.org/0000-0002-3313-0122"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -110,7 +110,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  personal         : "https://www.onera.fr/en/staff/rodrigo-daudt"
+  personal         : #"https://www.onera.fr/en/staff/rodrigo-daudt"
 
 
 # Reading Files
