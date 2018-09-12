@@ -23,17 +23,19 @@ Thanks to the spatial stationarity improvement in the ratio images, denoising th
 method is more effective than denoising the original multitemporal stack. The data volume to be processed is also reduced compared to other methods through the use of the “superimage”.
 
 ![Flowchart](/images/flowchart2.png)
-Multi-temporal SAR image denoising framework
+Figure 1. Multi-temporal SAR image denoising framework
 
 
 Experimental results
 ======
 
+MuLog-BM3D method is used to denoise the super-image which is acquired through temporal averaging 31 Sentinel-1 images. 
 
 ![NoisySuperImg](/images/NoisySuperImg.png)
-
+Figure 2. Noisy image and denoised super-image.
 
 ![DNoisyImg](/images/DNoisyImg.png)
+Figure 3. Denoised image
 
 	
 
