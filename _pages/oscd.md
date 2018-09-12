@@ -51,7 +51,7 @@ Figure 2. Noisy image and denoised super-image.
 
 ![DNoisyImg](/images/DNoisyImg2.png)
 
-Figure 3. Denoised image (enlarged)
+Figure 3. Denoised image
 
 	
 
