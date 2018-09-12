@@ -1,23 +1,23 @@
 ---
-title: "Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks"
+title: "RABASAR: A FAST RATIO BASED MULTI-TEMPORAL SAR DESPECKLING"
 collection: publications
-permalink: /publication/2018-08-22-urban-change-detection
-# excerpt: 'Rodrigo Caye Daudt, Bertrand Le Saux, Alexandre Boulch, Yann Gousseau.'
-date: 2018-05-22
+#permalink: /publication/2018-08-22-urban-change-detection
+# excerpt: 'Zhao, Weiying and Deledalle, Charles-Alban and Denis, Lo{\"\i}c and Ma{\^\i}tre, Henri and Nicolas, Jean-Marie and Tupin, Florence.'
+date: 2018-05-14
 venue: 'IEEE International Geoscience and Remote Sensing Symposium (IGARSS)'
-# paperurl: 'http://rcdaudt.github.io/files/2018igarss-change-detection.pdf'
-# citation: 'Rodrigo Caye Daudt, Bertrand Le Saux, Alexandre Boulch, Yann Gousseau'
+# paperurl: 'http://WeiyingZhao.github.io/files/2018igarss-change-detection.pdf'
+# citation: 'Zhao, Weiying and Deledalle, Charles-Alban and Denis, Lo{\"\i}c and Ma{\^\i}tre, Henri and Nicolas, Jean-Marie and Tupin, Florence'
 ---
 
-[[PDF]](http://rcdaudt.github.io/files/2018igarss-change-detection.pdf) [[BibTeX]](http://rcdaudt.github.io/files/daudt2018urban.bib) [[Dataset]](https://rcdaudt.github.io/oscd/)
+[[PDF]](http://WeiyingZhao.github.io/files/2018igarss-RABASAR.pdf)
 
-Authors: Rodrigo Caye Daudt, Bertrand Le Saux, Alexandre Boulch, Yann Gousseau
+Authors: Zhao, Weiying and Deledalle, Charles-Alban and Denis, Lo{\"\i}c and Ma{\^\i}tre, Henri and Nicolas, Jean-Marie and Tupin, Florence
 
 ```
-@inproceedings{daudt2018urban,
-  author = { {Caye Daudt}, R. and {Le Saux}, B. and Boulch, A. and Gousseau, Y.},
-  title = {Urban Change Detection for Multispectral Earth Observation Using Convolutional Neural Networks},
-  booktitle = {IEEE International Geoscience and Remote Sensing Symposium (IGARSS)},
+@inproceedings{zhao2018rabasar,
+  title={RABASAR: A FAST RATIO BASED MULTI-TEMPORAL SAR DESPECKLING},
+  author={Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F.},
+  booktitle={IEEE International Geoscience and Remote Sensing Symposium, IGARSS 2018},
   venue =  {Valencia, Spain},
   month = {July},
   year = {2018},
