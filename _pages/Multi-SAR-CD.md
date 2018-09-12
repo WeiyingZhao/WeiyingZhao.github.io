@@ -10,7 +10,7 @@ author_profile: true
 
 
 # Change area detection
-======
+
 ## Method introduction
 
 ## Experimental results
@@ -18,7 +18,7 @@ author_profile: true
 
 
 Change magnitude detection
-======
+
 ## Method introduction
 
 ## Experimental results
@@ -27,7 +27,7 @@ Change magnitude detection
 
 
 Change classification
-======
+
 ## Method introduction
 
 ## Experimental results
@@ -35,7 +35,7 @@ Change classification
 
 
 Change time detection
-======
+
 ## Method introduction
 
 ## Experimental results
