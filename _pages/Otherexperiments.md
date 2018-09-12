@@ -10,3 +10,5 @@ author_profile: true
 Related paper will be prepared and released.
 
 # 2. Deep learning based change detection
+
+Some ground truth has been finished based on well registered Sentinel-1 and Sentinel-2 images.
