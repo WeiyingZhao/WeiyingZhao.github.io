@@ -8,6 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
+To mining different change profiles, we propose several methods to detect the changed area, change magnitude, change classes and changed time. 
+
 This work is suppervised by [Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Henri Maître](https://perso.telecom-paristech.fr/maitre/).
 
 # 1. Change area detection
