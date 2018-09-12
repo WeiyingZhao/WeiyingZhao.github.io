@@ -9,7 +9,7 @@ venue: '(under revision)'
 # citation: 'Zhao, Weiying and Denis, Lo{\"\i}c and Deledalle, Charles-Alban and Maitre, Henri and Nicolas, Jean-Marie and Tupin, Florence'
 ---
 
-[[PDF]](http://WeiyingZhao.github.io/files/RatioSAR_denoising.pdf) [[BibTeX]](http://WeiyingZhao.github.io/files/2018-09-07-MultiTempDenoising.bib)
+[[PDF]](http://WeiyingZhao.github.io/files/RatioSAR_denoising.pdf) [[BibTeX]](http://WeiyingZhao.github.io/files/2018-01-07-MultiTempDenoising.bib)
 
 Authors: Zhao, Weiying and Denis, Lo{\"\i}c and Deledalle, Charles-Alban and Maitre, Henri and Nicolas, Jean-Marie and Tupin, Florence
 
