@@ -5,7 +5,7 @@ permalink: /Otherexperiments/
 author_profile: true
 ---
 
-# Long time series denoising and change detection
+# 1. Long time series denoising and change detection
 
 
-# Deep learning based change detection
+# 2. Deep learning based change detection
