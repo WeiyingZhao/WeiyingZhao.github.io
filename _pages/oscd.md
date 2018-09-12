@@ -30,8 +30,13 @@ Experimental results
 ======
 
 
-![NoisyImg](/images/NoisyImg.png)![superImg](/images/superImg.png)
+![NoisySuperImg](/images/NoisySuperImg.png)
 
+![ratioDratioImg](/images/ratioDratioImg.png)
+
+![DNoisyImg](/images/DNoisyImg.png)
+
+	
 
 
 
