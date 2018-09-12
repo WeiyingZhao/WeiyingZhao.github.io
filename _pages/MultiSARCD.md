@@ -10,7 +10,7 @@ author_profile: true
 
 To mining different change profiles, we propose several methods to detect the changed area, change magnitude, change classes and changed time of multitemporal SAR images. 
 
-This work is suppervised by [Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Henri Maître](https://perso.telecom-paristech.fr/maitre/).
+This work is supervised by [Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Henri Maître](https://perso.telecom-paristech.fr/maitre/).
 
 # 1. Change area detection
 
@@ -18,7 +18,7 @@ This work is suppervised by [Florence Tupin](https://perso.telecom-paristech.fr/
 
 Based on RABASAR provided data which have spatial varying ENL, we propose a simplified generalized log-likelihood ratio test (SGLR) method assuming that corresponding temporal pixels have the same equivalent number of looks (ENL). During the test, chi-squared  probability distribution function is utilized to theoretically define the false alarm rate. 
 
-To  compare  with  the  state-of-the-art change  detection methods,  we  processed popular used TerraSAR-X images acquired over Sendai. The changed areas in the imagesmainly have large magnitude changes. 9 temporal well registered images are used for thepreparation of denoised data, both for 2SPPB method and for RABASAR method. Onlythe two images which were acquired in 06/05/2011 and 08/06/2011 are used for the changedetection.
+To  compare  with  the  state-of-the-art change  detection methods,  we  processed popular used TerraSAR-X images acquired over Sendai. The changed areas in the images mainly have large magnitude changes. 9 temporal well-registered images are used for the preparation of denoised data, both for 2SPPB method and for RABASAR method. Only two images which were acquired in 06/05/2011 and 08/06/2011 are used for the change detection.
 
 ![changeAreaDetection](/images/changeAreaDetection2.png)
 
@@ -36,9 +36,9 @@ Figure 2. Cumulative change detection results. (a) the reference images divided 
 
 # 3. Change classification
 
-During the time series acquisition, the changes may occur multiple times and in dif-ferent change magnitudes. To detect the change types, we propose an improved change classification method inspired by NORCAMA method [Su et al., 2015] and spectral clustering method [Shi and Malik, 2000, Ng et al., 2002]. In practice, the change types aretransferred into partitioning problem and detected using spectral clustering.
+During the time series acquisition, the changes may occur multiple times and in different change magnitudes. To detect the change types, we propose an improved change classification method inspired by NORCAMA method [Su et al., 2015] and spectral clustering method [Shi and Malik, 2000, Ng et al., 2002]. In practice, the change types are transferred into a partitioning problem and detected using spectral clustering.
 
-The proposed method is similar to normalized cut method [Shi and Malik, 2000,Su et al., 2015]. However, they normalize the rows of symmetric change criterion matrix A(s) to sum to 1 and use its eigenvectors instead of the normalized Laplacian matrix. In addition, they do not re-normalize the rows of U (the k largest eigenvalues) to unit length [Ng et al., 2002].
+The proposed method is similar to normalized cut method [Shi and Malik, 2000, Su et al., 2015]. However, they normalize the rows of symmetric change criterion matrix A(s) to sum to 1 and use its eigenvectors instead of the normalized Laplacian matrix. In addition, they do not re-normalize the rows of U (the k largest eigenvalues) to unit length [Ng et al., 2002].
 
 ![changeClassification](/images/changeClassification.png)
 
@@ -54,14 +54,14 @@ high efficient time series change detection algorithm. It is based on HSV visual
 space and exploits only time domain estimates without any spatial estimation. The color
 saturation is coded by the coefficient of variation temporal.
 
-However, the detection results is highly corrupted by its speckle noise. Even using some
+However, the detection results are highly corrupted by its speckle noise. Even using some
 state-of-the-art denoising methods, the bias estimation in vegetation area still prohibit
 REACTIV provide the best performance. In addition, the color in REACTIV results
 represent the appearing date of maximum intensity values which can not indicate the
 change times.
 
 We improved REACTIV method with the proposed
-denoising results. In addition, we will apply generalized likelihood ratio test to this framework to detect the change starting and ending time, the maximum change magnitude
+denoising results. In addition, we will use  the generalized likelihood ratio test to  detect the change starting and ending time, the maximum change magnitude
 time and the maximum change significance time.
 
 The principle of the method is to exploit the HSV color space, where the hue channel H
