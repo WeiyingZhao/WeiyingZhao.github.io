@@ -36,18 +36,14 @@ Figure 2. Cumulative change detection results. (a) the reference images divided 
 
 # 3. Change classification
 
-## 3.1 Method introduction
-
-## 3.2 Experimental results
+During the time series acquisition, the changes may occur multiple times and in dif-ferent change magnitudes. To detect the change types, we propose an improved change classification method inspired by NORCAMA method [Su et al., 2015] and spectral clustering method [Shi and Malik, 2000, Ng et al., 2002]. In practice, the change types aretransferred into partitioning problem and detected using spectral clustering.
 
 ![changeClassification](/images/changeClassification.png)
 
 
 # 4. Change time detection
 
-## 4.1 Method introduction
 
-## 4.2 Experimental results
 
 ![changeTimeDetection](/images/changeTimeDetection.png)
 
