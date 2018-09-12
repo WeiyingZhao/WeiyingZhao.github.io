@@ -16,7 +16,7 @@ This work is suppervised by [Florence Tupin](https://perso.telecom-paristech.fr/
 
 
 
-Based on RABASAR provided data which have spatial varying ENL, we propose a simplified log-likelihood ratio test method assuming that corresponding temporal pixels have the same equivalent number of looks (ENL). During the test, chi-squared distributed probability function is utilized to theoretically define the false alarm rate. 
+Based on RABASAR provided data which have spatial varying ENL, we propose a simplified generalized log-likelihood ratio test (SGLR) method assuming that corresponding temporal pixels have the same equivalent number of looks (ENL). During the test, chi-squared distributed probability function is utilized to theoretically define the false alarm rate. 
 
 
 ![changeAreaDetection](/images/changeAreaDetection.png)
