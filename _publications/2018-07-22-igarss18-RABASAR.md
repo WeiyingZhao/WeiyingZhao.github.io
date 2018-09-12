@@ -9,7 +9,7 @@ venue: 'IEEE International Geoscience and Remote Sensing Symposium (IGARSS)'
 # citation: 'Zhao, Weiying and Deledalle, Charles-Alban and Denis, Lo{\"\i}c and Ma{\^\i}tre, Henri and Nicolas, Jean-Marie and Tupin, Florence'
 ---
 
-[[PDF]](http://WeiyingZhao.github.io/files/2018igarss-RABASAR.pdf) [[BibTeX]](http://rcdaudt.github.io/files/2018-07-22-igarss18RABASAR.bib)
+[[PDF]](http://WeiyingZhao.github.io/files/2018igarss-RABASAR.pdf) [[BibTeX]](http://WeiyingZhao.github.io/files/2018-07-22-igarss18RABASAR.bib)
 
 Authors: Zhao, Weiying and Deledalle, Charles-Alban and Denis, Lo{\"\i}c and Ma{\^\i}tre, Henri and Nicolas, Jean-Marie and Tupin, Florence
 
