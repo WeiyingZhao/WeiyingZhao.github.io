@@ -35,6 +35,7 @@ MuLog-BM3D method is used to denoise the super-image which is acquired through t
 Figure 2. Noisy image and denoised super-image.
 
 ![DNoisyImg](/images/DNoisyImg.png)
+
 Figure 3. Denoised image
 
 	
