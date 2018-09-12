@@ -15,6 +15,7 @@ author_profile: true
 ## Method introduction
 
 ## Experimental results
+![changeAreaDetection](/images/changeAreaDetection.png)
 
 
 
@@ -24,6 +25,7 @@ author_profile: true
 
 ## Experimental results
 
+![changeMagnitudeDetection](/images/changeMagnitudeDetection.png)
 
 
 
@@ -33,9 +35,13 @@ author_profile: true
 
 ## Experimental results
 
+![changeClassification](/images/changeClassification.png)
 
 
 # Change time detection
+
+![changeTimeDetection](/images/changeTimeDetection.png)
+
 
 ## Method introduction
 
