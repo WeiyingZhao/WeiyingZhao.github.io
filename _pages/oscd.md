@@ -29,11 +29,11 @@ Interest of the ratio image
 ---
    * In case of temporally stable area and ENL of the super-image infinite
    
-	* ratio image = pure Gamma noise of mean 1
+	ratio image = pure Gamma noise of mean 1
 
    * In case of  a limited ENL and temporal variations
    
-	* Fisher pdf that can be approximated by Gamma pdf
+	Fisher pdf that can be approximated by Gamma pdf
 
 In all situations, ratio image with less structures and variations than an original SAR image  
 →   Easier to denoise !
@@ -42,9 +42,9 @@ In all situations, ratio image with less structures and variations than an origi
 
 Experimental results
 ======
-   *31 Sentinel-1 images which are downloaded from [Sentinel open access hub](https://sentinels.copernicus.eu/web/sentinel/sentinel-data-access) are used.
+   * 31 Sentinel-1 images which are downloaded from [Sentinel open access hub](https://sentinels.copernicus.eu/web/sentinel/sentinel-data-access) are used.
 
-   *MuLog-BM3D method is used to denoise the super-image which is acquired through temporal averaging 31 Sentinel-1 images. 
+   * MuLog-BM3D method is used to denoise the super-image which is acquired through temporal averaging 31 Sentinel-1 images. 
 
 ![NoisySuperImg](/images/NoisySuperImg.png)
 Figure 2. Noisy image and denoised super-image.
