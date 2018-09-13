@@ -25,7 +25,7 @@ author_profile: true
 [[BibTeX]](http://WeiyingZhao.github.io/files/2017SARDecomposition.bib)
 
 
-[*Urban area change detection based on generalized likelihood ratio test*, Zhao, W., Lobry, S., Maitre, H., Nicolas, J.M. and Tupin, F. 9th International Workshop on the Analysis of Multitemporal Remote Sensing Images (MultiTemp’2017). Valencia, Spain. July 2018.](https://WeiyingZhao.github.io/publication/2018-07-22-igarss18-RABASAR)
+[*Urban area change detection based on generalized likelihood ratio test*, Zhao, W., Lobry, S., Maitre, H., Nicolas, J.M. and Tupin, F. 9th International Workshop on the Analysis of Multitemporal Remote Sensing Images (MultiTemp’2017). Bruges, Belgium. June 2017.](https://WeiyingZhao.github.io/publication/2017-06-27-MultiTemp-CD.md)
 
 [[PDF]](http://WeiyingZhao.github.io/files/2017-MultiTemp-Change-Detection.pdf) [[BibTeX]](http://rcdaudt.github.io/files/2017-06-27-MultiTemp-CD.bib)
 
