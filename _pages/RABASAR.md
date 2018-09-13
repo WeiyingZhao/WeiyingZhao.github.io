@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "RABASAR: A fast ratio based multi-temporal SAR despeckling"
-permalink: /oscd/
+permalink: /RABASAR/
 author_profile: true
 ---
 
