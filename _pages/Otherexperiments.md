@@ -4,7 +4,7 @@ title: "Other experiments"
 permalink: /Otherexperiments/
 author_profile: true
 ---
-# 1. Propose a autocovariance based denoising performance evaluation method
+# 1. Propose an autocovariance based denoising performance evaluation method
 
 # 2. Long time series SAR image denoising and change detection
 
