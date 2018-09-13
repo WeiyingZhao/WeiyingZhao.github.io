@@ -59,24 +59,11 @@ REACTIV provide the best performance. In addition, the color in REACTIV results
 represent the appearing date of maximum intensity values which can not indicate the
 change times.
 
-We improved REACTIV method with RABASAR
-denoising results. In addition, we will use  the generalized likelihood ratio test to  detect the change starting and ending time, the maximum change magnitude
-time and the maximum change significance time.
-Generalized likelihood ratio test (GLRT) is used to detect times of interest:
-
-(1) Start changing time: When detecting the start changing time in the time series, the image pair similarity is calculated with the reference of the first image.
-    
-(2) Maximum change time: Generally, the abrupt changes are associated with large change magnitude. The maximum logarithm of GLRT  is supposed to be the maximum change.
-    
-(3) Maximum change significance: In case of a slowly changing time series, the last changed point in the time series is used as the reference point. 
-    
-(4) Stop changing time: For the detection of stop changing time, the last changed point in the time series is used as the reference point.
+We improved REACTIV method with RABASAR denoising results. In addition, we will use  the generalized likelihood ratio test to  detect the change starting and ending time, the maximum change magnitude time and the maximum change significance time.
 
 
 
-
-
-We applied the proposed method to  flooding area monitoring.
+We have applied the proposed method to  flooding area monitoring.
 
 ![changeTimeDetection](/images/changeTimeDetection.png)
 
