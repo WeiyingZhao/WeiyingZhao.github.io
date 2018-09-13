@@ -14,8 +14,6 @@ To mining different change profiles, we propose several methods to detect the ch
 
 # 1. Change area detection
 
-
-
 Based on RABASAR provided data which have spatial varying ENL, we propose a simplified generalized log-likelihood ratio test (SGLR) method assuming that corresponding temporal pixels have the same equivalent number of looks (ENL). During the test, chi-squared  probability distribution function is utilized to theoretically define the false alarm rate. 
 
 To  compare  with  the  state-of-the-art change  detection methods,  we  processed popular used TerraSAR-X images acquired over Sendai. The changed areas in the images mainly have large magnitude changes. 9 temporal well-registered images are used for the preparation of denoised data, both for 2SPPB method and for RABASAR method. Only two images which were acquired in 06/05/2011 and 08/06/2011 are used for the change detection.
@@ -31,7 +29,7 @@ To distinguish  appearing and disappearing changes, we used a signum function si
 
 ![changeMagnitudeDetection](/images/changeMagnitudeDetection2.png)
 
-Figure 2. Cumulative change detection results. (a) the reference images divided by the other images, (b) cumulative changes without object weights, (c) cumulative changes with object weights. The thresholds chosen for column (b) with Pfa=0.54% and Pfa=1% for column (c). The time intervals of the changes are shown above. Different colors  represent the decrease and increase of the backscattering values. The temporal images are denoised using RABASAR-DAM method.
+Figure 2. Cumulative change detection results. (a) ratio image between two different date, (b) cumulative changes without object weights, (c) cumulative changes with object weights. The thresholds chosen for column (b) with Pfa=0.54% and Pfa=1% for column (c). The time intervals of the changes are shown above. Different colors  represent the decrease and increase of the backscattering values. The temporal images are denoised using RABASAR-DAM method.
 
 
 # 3. Change classification
