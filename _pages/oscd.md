@@ -44,7 +44,7 @@ Experimental results
 ======
    * 31 Sentinel-1 images which are downloaded from [Sentinel open access hub](https://sentinels.copernicus.eu/web/sentinel/sentinel-data-access) are used.
 
-   * MuLog-BM3D method is used to denoise the super-image which is acquired through temporal averaging 31 Sentinel-1 images. 
+   * MuLog-BM3D method is used to denoise the super-image which is acquired through temporal averaging. 
 
 ![NoisySuperImg](/images/NoisySuperImg1.png)
 Figure 2. Noisy image and denoised super-image.
