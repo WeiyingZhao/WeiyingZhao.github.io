@@ -38,8 +38,9 @@ During the time series acquisition, the changes may occur multiple times and in 
 
 The proposed method is similar to normalized cut method [Shi and Malik, 2000, Su et al., 2015]. However, they normalize the rows of symmetric change criterion matrix A(s) to sum to 1 and  use its eigenvectors instead of the normalized Laplacian matrix. In addition, they do not re-normalize the rows of U (the k largest eigenvalues) to unit length [Ng et al., 2002].
 
-![changeClassification](/images/changeClassification.png)
+![changeClassification](/images/changeClassification2.png)
 
+![changeClassification](/images/changeClassification3.png)
 Figure 3. Sentinel-1 time series change classification. (a-f) RABASAR denoised Sentinel-1 images, (g) NORCAMA with RABASAR-DAM  provided data, (h) NORCAMA with provided RABASAR-DBWAM data, (i) NORCAMA with 2SPPB provided data, (j) Conradsen's with RABASAR-DBWAM provided data, (k) SGLR with RABASAR-DAM provided data, (l) SGLR with RABASAR-DBWAM provided data. 6 images are used for the change type detection. The change type results are: white: no change, red: step change, green: impulse change, blue: cycle change and cyan: complex change.
 
 
