@@ -75,6 +75,21 @@ the arithmetic mean image. All the test images are provided by RABASAR-AM.
 The detection results have high similarity with the results provided by ESA ([https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_maps_flash_floods_in_Laos](https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_maps_flash_floods_in_Laos)).
 
 
+# Reference
+
+[1] Su, X., Deledalle, C.A., Tupin, F. and Sun, H., 2012, July. Two steps multi-temporal non-local means for SAR images. In Geoscience and Remote Sensing Symposium (IGARSS), 2012 IEEE International (pp. 2008-2011). IEEE.
+
+[2] Su, X., Deledalle, C.A., Tupin, F. and Sun, H., 2015. NORCAMA: Change analysis in SAR time series by likelihood ratio change matrix clustering. ISPRS Journal of Photogrammetry and Remote Sensing, 101, pp.247-261.
+
+[3] Shi, J. and Malik, J., 2000. Normalized cuts and image segmentation. IEEE Transactions on pattern analysis and machine intelligence, 22(8), pp.888-905.
+
+[4] Ng, A.Y., Jordan, M.I. and Weiss, Y., 2002. On spectral clustering: Analysis and an algorithm. In Advances in neural information processing systems (pp. 849-856).
+
+[5] Aminikhanghahi, S. and Cook, D.J., 2017. A survey of methods for time series change point detection. Knowledge and information systems, 51(2), pp.339-367.
+
+[6] Colin-Koeniguer, E., Boulch, A., Trouve-Peloux, P. and Janez, F., 2018, June. Colored visualization of multitemporal SAR data for change detection: issues and methods. In EUSAR 2018; 12th European Conference on Synthetic Aperture Radar (pp. 1-4). VDE.
+
+[7] Conradsen, K., Nielsen, A.A., Schou, J. and Skriver, H., 2003. A test statistic in the complex Wishart distribution and its application to change detection in polarimetric SAR data. IEEE Transactions on Geoscience and Remote Sensing, 41(1), pp.4-19.
 
 
 
