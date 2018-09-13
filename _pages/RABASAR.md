@@ -64,9 +64,11 @@ Figure 3. Denoised image
 References
 ======
 
-[1] Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J.M. and Tupin, F., 2018, July. RABASAR: A FAST RATIO BASED MULTI-TEMPORAL SAR DESPECKLING. In IEEE International Geoscience and Remote Sensing Symposium, IGARSS 2018.
+[1] Deledalle, C.A., Denis, L., Tabti, S. and Tupin, F., 2017. MuLoG, or How to apply Gaussian denoisers to multi-channel SAR speckle reduction?. IEEE Transactions on Image Processing, 26(9), pp.4389-4403.
 
-[2] Zhao, W., Denis, L., Deledalle, C.A., Maître, H., Nicolas, J-M. and Tupin, F. Ratio-based multi-temporal SAR images denoising, (under revision). 2018.
+[2] Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J.M. and Tupin, F., 2018, July. RABASAR: A FAST RATIO BASED MULTI-TEMPORAL SAR DESPECKLING. In IEEE International Geoscience and Remote Sensing Symposium, IGARSS 2018.
+
+[3] Zhao, W., Denis, L., Deledalle, C.A., Maître, H., Nicolas, J-M. and Tupin, F. Ratio-based multi-temporal SAR images denoising, (under revision). 2018.
 
 
 
