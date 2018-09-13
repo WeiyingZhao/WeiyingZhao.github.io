@@ -20,24 +20,12 @@ author_profile: true
 [[BibTeX]](http://WeiyingZhao.github.io/files/2018-01-07-DInSAR.bib)
 
 
+[*Décomposition de séries temporelles d’images SAR pour la détection de changement*, Lobry, S.,  Denis, L., Tupin, F. and Zhao, W. Traitement du Signal (GRETSI, Lavoisier) (accepted)](2017-12-01-SAR-Decomposition.md)
+
+[[BibTeX]](http://WeiyingZhao.github.io/files/2017SARDecomposition.bib)
 
 
-@inproceedings{Lobry2017detection,
-  title={D\'{e}tection Dense de Changements par R\'{e}seaux de Neurones Siamois},
-  author={ Lobry, S.,  Denis, L., Tupin, F. and Zhao, W.},
-  booktitle={Traitement du Signal (GRETSI, Lavoisier) (accepted)},
-  year={2017},
-  month = {December}
-}
+[*Urban area change detection based on generalized likelihood ratio test*, Zhao, W., Lobry, S., Maitre, H., Nicolas, J.M. and Tupin, F. 9th International Workshop on the Analysis of Multitemporal Remote Sensing Images (MultiTemp’2017). Valencia, Spain. July 2018.](https://WeiyingZhao.github.io/publication/2018-07-22-igarss18-RABASAR)
 
-@inproceedings{zhao2017urban,
-  title={Urban area change detection based on generalized likelihood ratio test},
-  author={Zhao, W., Lobry, S., Maitre, H., Nicolas, J.M. and Tupin, F.},
-  booktitle={Analysis of Multitemporal Remote Sensing Images (MultiTemp), 2017 9th International Workshop on the},
-  pages={1--4},
-  year={2017},
-  organization={IEEE}
-}
-
-
+[[PDF]](http://WeiyingZhao.github.io/files/2017-MultiTemp-Change-Detection.pdf) [[BibTeX]](http://rcdaudt.github.io/files/2017-06-27-MultiTemp-CD.bib)
 
