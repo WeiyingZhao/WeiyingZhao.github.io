@@ -37,7 +37,7 @@ Vocational experience
 Main Skills
 ======
 * Programming: MATLAB, Python, C, C++.
-* Tools: LaTeX, OpenOffice, Microsoft Window, Linux, Sentinel ToolBox, Polsarpro, ENVI.
+* Tools: LaTeX, OpenOffice, Microsoft Window, Linux, Sentinel ToolBoxes, Polsarpro, ENVI.
 * Languages: Chinese, English, French (basic).
 
 
