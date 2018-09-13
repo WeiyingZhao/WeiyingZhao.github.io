@@ -9,7 +9,7 @@ author_profile: true
 
 ### This work is cooperated with [Loïc Denis](https://perso.univ-st-etienne.fr/deniloic/), [Charles-Alban Deledalle](https://www.math.u-bordeaux.fr/~cdeledal/), [Henri Maître](https://perso.telecom-paristech.fr/maitre/), [Jean-Marie Nicolas](https://perso.telecom-paristech.fr/nicolas/) and [Florence Tupin](https://perso.telecom-paristech.fr/tupin/).
 
-Principle of the proposed method
+The principle of the proposed method
 ======
 The proposed approach can be divided into three steps: 
 
@@ -25,7 +25,7 @@ method is more effective than denoising the original multitemporal stack. The da
 ![Flowchart](/images/flowchart2.png)
 Figure 1. Multi-temporal SAR image denoising framework
 
-Interest of the ratio image 
+The interest of ratio image 
 ---
   * In case of temporally stable area and ENL of the super-image infinite
    
@@ -35,7 +35,7 @@ Interest of the ratio image
    
 	Fisher pdf that can be approximated by Gamma pdf
 
-In all situations, ratio image with less structures and variations than an original SAR image  
+In all situations, ratio image with fewer structures and variations than an original SAR image  
 →   Easier to denoise !
 
 
