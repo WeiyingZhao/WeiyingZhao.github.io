@@ -67,22 +67,23 @@ time and the maximum change significance time.
 
 Generalized likelihood ratio test (GLRT) is used to detect times of interest:
 
-    * Start changing time
+Start changing time
     
-    When detecting the start changing time in the time series, the image pair similarity is calculated with the reference of the first image $y_1$.
+    When detecting the start changing time in the time series, the image pair similarity is calculated with the reference of the first image.
     
-    * Maximum change time
+Maximum change time
     
-    Generally, the abrupt changes are associated  with large change magnitude \citep{basseville1993detection}. 
-    The maximum logarithm of $GLRT(y_t,y_{t'})$  is supposed to be the maximum change. In this case, $t$ and $t'$ are set as the adjacent images. $t'$ is the  maximum change time.
+    Generally, the abrupt changes are associated with large change magnitude. The maximum logarithm of GLRT  is supposed to be the maximum change.
     
-    * Maximum change significance
+Maximum change significance
     
-    In case of slowly changing time series, the last changed point in the time series is used as the reference point. 
+    In case of a slowly changing time series, the last changed point in the time series is used as the reference point. 
     
-    * Stop changing time
+Stop changing time
     
     For the detection of stop changing time, the last changed point in the time series is used as the reference point.
+
+
 
 
 
