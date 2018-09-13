@@ -10,7 +10,7 @@ author_profile: true
 
 To mining different change profiles, we propose several methods to detect the change area, change magnitude, change classes and change time of multitemporal SAR images. 
 
-### This work is supervised by [Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Henri Maître](https://perso.telecom-paristech.fr/maitre/).
+### This work is supervised by [Florence Tupin](https://perso.telecom-paristech.fr/tupin/), [Henri Maître](https://perso.telecom-paristech.fr/maitre/) and  [Loïc Denis](https://perso.univ-st-etienne.fr/deniloic/).
 
 # 1. Change area detection
 
