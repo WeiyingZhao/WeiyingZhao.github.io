@@ -48,7 +48,7 @@ Figure 3. Sentinel-1 time series change classification. (a-f) RABASAR denoised S
 
 Change time detection is significant for land surface monitoring. Normally, changes
 may represent transitions that occur between states [Aminikhanghahi and Cook, 2017].
-Currently, REACTIV method [Koeniguer et al., 2018, Koeniguer et al.] is a simple and
+Currently, REACTIV method [Koeniguer et al., 2018] is a simple and
 high efficient time series change detection algorithm. It is based on HSV visualization
 space and exploits only time domain estimates without any spatial estimation. The principle of the method is to exploit the HSV color space, where the hue channel H represents the time, the saturation channel S is coding the temporal coefficient of variation,
 and the value V corresponds to a notion of conventional radar intensity.
