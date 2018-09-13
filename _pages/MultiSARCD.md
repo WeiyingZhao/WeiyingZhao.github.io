@@ -49,8 +49,8 @@ Change time detection is significant for land surface monitoring. Normally, chan
 may represent transitions that occur between states [Aminikhanghahi and Cook, 2017].
 Currently, REACTIV method [Koeniguer et al., 2018, Koeniguer et al.] is a simple and
 high efficient time series change detection algorithm. It is based on HSV visualization
-space and exploits only time domain estimates without any spatial estimation. The color
-saturation is coded by the coefficient of variation temporal.
+space and exploits only time domain estimates without any spatial estimation. The principle of the method is to exploit the HSV color space, where the hue channel H represents the time, the saturation channel S is coding the temporal coefficient of variation,
+and the value V corresponds to a notion of conventional radar intensity.
 
 However, the detection results are highly corrupted by its speckle noise. Even using some
 state-of-the-art denoising methods, the bias estimation in vegetation area still prohibit
@@ -58,16 +58,35 @@ REACTIV provide the best performance. In addition, the color in REACTIV results
 represent the appearing date of maximum intensity values which can not indicate the
 change times.
 
-We improved REACTIV method with the proposed
+We improved REACTIV method with RABASAR
 denoising results. In addition, we will use  the generalized likelihood ratio test to  detect the change starting and ending time, the maximum change magnitude
 time and the maximum change significance time.
 
-The principle of the method is to exploit the HSV color space, where the hue channel H
-represents the time, the saturation channel S is coding the temporal coefficient of variation,
-and the value V corresponds to a notion of conventional radar intensity.
 
 
-We  applied the proposed method to  flooding area monitoring.
+
+Generalized likelihood ratio test (GLRT) is used to detect times of interest:
+
+    * Start changing time
+    
+    When detecting the start changing time in the time series, the image pair similarity is calculated with the reference of the first image $y_1$.
+    
+    * Maximum change time
+    
+    Generally, the abrupt changes are associated  with large change magnitude \citep{basseville1993detection}. 
+    The maximum logarithm of $GLRT(y_t,y_{t'})$  is supposed to be the maximum change. In this case, $t$ and $t'$ are set as the adjacent images. $t'$ is the  maximum change time.
+    
+    * Maximum change significance
+    
+    In case of slowly changing time series, the last changed point in the time series is used as the reference point. 
+    
+    * Stop changing time
+    
+    For the detection of stop changing time, the last changed point in the time series is used as the reference point.
+
+
+
+We applied the proposed method to  flooding area monitoring.
 
 ![changeTimeDetection](/images/changeTimeDetection.png)
 
