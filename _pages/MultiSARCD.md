@@ -75,7 +75,7 @@ the arithmetic mean image. All the test images are provided by RABASAR-AM.
 The detection results have high similarity with the results provided by ESA ([https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_maps_flash_floods_in_Laos](https://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Sentinel-1/Sentinel-1_maps_flash_floods_in_Laos)).
 
 
-# Reference
+# References
 
 [1] Su, X., Deledalle, C.A., Tupin, F. and Sun, H., 2012, July. Two steps multi-temporal non-local means for SAR images. In Geoscience and Remote Sensing Symposium (IGARSS), 2012 IEEE International (pp. 2008-2011). IEEE.
 
