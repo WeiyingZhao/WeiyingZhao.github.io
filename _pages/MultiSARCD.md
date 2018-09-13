@@ -29,7 +29,7 @@ To distinguish  appearing and disappearing changes, we used a signum function si
 
 ![changeMagnitudeDetection](/images/changeMagnitudeDetection2.png)
 
-Figure 2. Cumulative change detection results. (a) ratio image between two different date, (b) cumulative changes without object weights, (c) cumulative changes with object weights. The thresholds chosen for column (b) with Pfa=0.54% and Pfa=1% for column (c). The time intervals of the changes are shown above. Different colors  represent the decrease and increase of the backscattering values. The temporal images are denoised using RABASAR-DAM method.
+Figure 2. Cumulative change detection results. (a) ratio image between two different date, (b) cumulative changes without object weights, (c) cumulative changes with object weights. The thresholds chosen for column (b) with Pfa=0.54% and Pfa=1% for column (c). The farmland areas boundaries are index using yellow line which is prepared manualy. The time intervals of the changes are shown above. Different colors  represent the decrease and increase of the backscattering values. The temporal images are denoised using RABASAR-DAM method.
 
 
 # 3. Change classification
