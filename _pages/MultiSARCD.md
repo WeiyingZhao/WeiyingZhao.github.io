@@ -40,7 +40,7 @@ The proposed method is similar to normalized cut method [Shi and Malik, 2000, Su
 
 ![changeClassification](/images/changeClassification.png)
 
-Figure 3. Sentinel-1 time series change classification. (a-f) Sentinel-1 images, (g) NORCAMA with RABASAR-DAM  provided data, (h) NORCAMA with provided RABASAR-DBWAM data, (i) NORCAMA with 2SPPB provided data, (j) Conradsen's with RABASAR-DBWAM provided data, (k) SGLR with RABASAR-DAM provided data, (l) SGLR with RABASAR-DBWAM provided data. 6 images are used for the change type detection. The change type results are: black: no change, red: step change, green: impulse change, blue: cycle change and cyan: complex change.
+Figure 3. Sentinel-1 time series change classification. (a-f) Sentinel-1 images, (g) NORCAMA with RABASAR-DAM  provided data, (h) NORCAMA with provided RABASAR-DBWAM data, (i) NORCAMA with 2SPPB provided data, (j) Conradsen's with RABASAR-DBWAM provided data, (k) SGLR with RABASAR-DAM provided data, (l) SGLR with RABASAR-DBWAM provided data. 6 images are used for the change type detection. The change type results are: white: no change, red: step change, green: impulse change, blue: cycle change and cyan: complex change.
 
 
 # 4. Change time detection
