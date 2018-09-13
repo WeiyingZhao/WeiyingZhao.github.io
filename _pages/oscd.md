@@ -47,7 +47,7 @@ Experimental results
    * MuLog-BM3D method is used to denoise the super-image which is acquired through temporal averaging. 
 
 ![NoisySuperImg](/images/NoisySuperImg1.png)
-Figure 2. Noisy image and denoised super-image.
+Figure 2. Noisy image and MuLog-BM3D denoised super-image.
 
 ![DNoisyImg](/images/DNoisyImg1.png)
 
