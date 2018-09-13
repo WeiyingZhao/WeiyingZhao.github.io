@@ -84,7 +84,7 @@ data. The images are acquired over Xe-Pian Xe-Namnoy dam in the southeastern pro
 of Attapeu in Laos. 87 temporal Sentinel-1 GRD images are used for the preparation of
 the arithmetic mean image. All the test images are provided by RABASAR-AM.
 
-
+The detection results have high similarity with the results provided by ESA (https://www.esa.int/Our\_Activities/Observing\_the\_Earth/Copernicus/Sentinel-1\\/Sentinel-1\_maps\_flash\_floods\_in\_Laos).
 
 
 
