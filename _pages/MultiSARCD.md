@@ -61,10 +61,6 @@ change times.
 We improved REACTIV method with RABASAR
 denoising results. In addition, we will use  the generalized likelihood ratio test to  detect the change starting and ending time, the maximum change magnitude
 time and the maximum change significance time.
-
-
-
-
 Generalized likelihood ratio test (GLRT) is used to detect times of interest:
 
 (1) Start changing time: When detecting the start changing time in the time series, the image pair similarity is calculated with the reference of the first image.
