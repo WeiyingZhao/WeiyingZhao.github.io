@@ -49,8 +49,8 @@ Experimental results
 ![NoisySuperImg](/images/NoisySuperImg1.png)
 Figure 2. Noisy image and MuLog-BM3D denoised super-image.
 
-![DNoisyImg](/images/DNoisyImg1.png)
-
+![DNoisyImg](/images/testAnimated.gif)
+%DNoisyImg1.png
 Figure 3. Denoised image
 
 	
