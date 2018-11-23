@@ -14,10 +14,10 @@ Education
 * PhD of Signal and Image Processing, Télécom ParisTech, 2015-2018 (expected)
     * Thesis: SAR time series despeckling and change detection
     
-* MSc of Geodesy and Survey Engineering, China University of Mining and Technology, 2012--2015.
+* MSc of Geodesy and Survey Engineering, China University of Mining and Technology (CUMT), 2012--2015.
     * Thesis: Study on the subsidence monitoring of mining area with InSAR techniques
     
-* BEng of Surveying and Mapping Engineering, 2008--2012
+* BEng of Surveying and Mapping Engineering, CUMT, 2008--2012
     * Thesis: Comparing and analyzing polarization SAR vegetation classification methods
 
 
