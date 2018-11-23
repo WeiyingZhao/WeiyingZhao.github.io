@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-*  PhD of Signal and Image Processing, Télécom ParisTech, 2015-2018 (expected)
-    * Thesis: SAR time series despeckling and change detection
+###  PhD of Signal and Image Processing, Télécom ParisTech, 2015-2018 (expected)
+     Thesis: SAR time series despeckling and change detection
     
 *  MSc of Geodesy and Survey Engineering, China University of Mining and Technology (CUMT), 2012--2015.
     * Thesis: Study on the subsidence monitoring of mining area with InSAR techniques
