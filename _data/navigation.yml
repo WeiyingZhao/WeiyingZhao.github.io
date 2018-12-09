@@ -2,14 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
+    
   - title: "CV"
     url: /cv/
     
   - title: "RABASAR"
     url: /RABASAR/ 
     
-   - title: "Talks"
-     url: /talks/    
+#   - title: "Talks"
+ #    url: /talks/    
 
 #   - title: "Teaching"
 #     url: /teaching/    
