@@ -24,5 +24,5 @@ main:
   - title: "Multi-SAR-CD"
     url: /MultiSARCD/
     
-  #- title: "Other experiments"
-  #  url: /Otherexperiments/
+  - title: "Other experiments"
+    url: /Otherexperiments/
