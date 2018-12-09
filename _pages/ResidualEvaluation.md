@@ -1,6 +1,8 @@
 ---
-permalink: /ResidualEvaluation/
+layout: archive
 title: "Residual Evaluation"
+permalink: /ResidualEvaluation/
+author_profile: true
 ---
 
 {% include base_path %}
