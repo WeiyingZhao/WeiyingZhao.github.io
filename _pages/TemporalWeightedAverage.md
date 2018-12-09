@@ -1,5 +1,5 @@
 ---
-permalink: /non-menu-page/
+layout: archive
 title: "Temporal Weighted Average"
 permalink: /TemporalWeightedAverage/
 author_profile: true
