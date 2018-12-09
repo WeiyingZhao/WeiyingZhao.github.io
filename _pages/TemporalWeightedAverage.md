@@ -11,7 +11,7 @@ With the launching of a new generation of SAR systems, a large amount of SAR dat
 a multitemporal series is temporal multilooking. We proposed two schemes for introducing the temporal information
 into the spatially based SAR image denoising methods: adaptive nonlocal temporal filter (ANLTF) and patch based adaptive temporal filter (PATF).
 
-![changeAreaDetection](/images/TemporalWeightedAverage1.jpg)
+![changeAreaDetection](/images/TemporalWeightedAverage2.jpg)
 
 Figure 1. Different denoising results comparison based on 64 resampled (step 2)
 Sentinel-1 images : denoising results (left), ratio with noisy data (middle) and residual
