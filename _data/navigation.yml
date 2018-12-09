@@ -2,7 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
-
+  - title: "CV"
+    url: /cv/
+    
+  - title: "RABASAR"
+    url: /RABASAR/ 
+    
    - title: "Talks"
      url: /talks/    
 
@@ -15,17 +20,13 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+   
     
-  - title: "RABASAR"
-    url: /RABASAR/    
+#   - title: "Residual Evaluation"
+#    url: /ResidualEvaluation/
     
-   - title: "Residual Evaluation"
-    url: /ResidualEvaluation/
-    
-   - title: "Temporal Weighted Average"
-    url: /TemporalWeightedAverage/
+#   - title: "Temporal Weighted Average"
+#    url: /TemporalWeightedAverage/
     
   - title: "Multi-SAR-CD"
     url: /MultiSARCD/
