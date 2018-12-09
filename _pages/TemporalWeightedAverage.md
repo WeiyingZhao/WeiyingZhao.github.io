@@ -1,6 +1,6 @@
 ---
 permalink: /non-menu-page/
-title: "Temporal Weighted Average"
+title: "Temporal weighted average"
 permalink: /TemporalWeightedAverage/
 author_profile: true
 ---
