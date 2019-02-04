@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Analysis of the residual with autocovariance"
+title: "Temporal Weighted Average"
 permalink: /RABASAR2/
 author_profile: true
 ---
