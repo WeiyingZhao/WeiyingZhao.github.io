@@ -9,7 +9,7 @@ main:
   - title: "RABASAR"
     url: /RABASAR/ 
     
-  - title: "Residual Evaluation"
+  - title: "Residual-evaluator"
     url: /RABASAR1/ 
     
   - title: "Temporal Weighted Average"
