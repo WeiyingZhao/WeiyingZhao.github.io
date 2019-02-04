@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "RABASAR: A fast ratio based multi-temporal SAR despeckling"
+title: "Analysis of the residual with autocovariance"
 permalink: /RABASAR1/
 author_profile: true
 ---
