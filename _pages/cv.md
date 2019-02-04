@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-*  PhD of Signal and Image Processing, Télécom ParisTech, 2015-2018 (expected)
+*  PhD of Signal and Image Processing, Télécom ParisTech, December, 2015- January, 2019
     * Thesis: SAR time series despeckling and change detection
     
 *  MSc of Geodesy and Survey Engineering, China University of Mining and Technology (CUMT), 2012--2015.
