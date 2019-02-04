@@ -7,19 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-The evaluation method proposed here follows the idea presented in [Riot et al., 2017]
-which examines the residual image and looks for possible remaining structural elements
-in this residual image. Instead of using autocorrelation, we used patch base autocovariance method during the residual evaluation.
-Unlike maximum ENL estimation or αβ estimation [Gomez
-et al., 2016] method, this method is automatic and does not rely on a supervised
-selection of homogeneous regions. It also provides a global score for the whole image.
 
+With the launching of a new generation of SAR systems, a large amount of SAR data is now available. One of the oldest ways to exploit
+a multitemporal series is temporal multilooking. We proposed two schemes for introducing the temporal information
+into the spatially based SAR image denoising methods: adaptive nonlocal temporal filter (ANLTF) and patch based adaptive temporal filter (PATF).
 
+![changeAreaDetection](/images/TemporalWeightedAverage2.jpg)
 
-
-Figure 1. Denoising real Sentinel-1 images over the region of Saclay (the original noisy
-image is available in figure 6.2(a)). Left column : denoised results ; middle column : residual
-ratio images ; right column : residuals evaluation results with displaying value range [0, 4].
-64 Sentinel-1 images are used.
-
-
+Figure 1. Different denoising results comparison based on 64 resampled (step 2)
+Sentinel-1 images : denoising results (left), ratio with noisy data (middle) and residual
+evaluation results (right). There are changed building areas in the middle of the image.
+The residual evaluation results have been classified into 4 classes with display value range
+[0, 4] and red color represents the larger values.
