@@ -21,3 +21,6 @@ Figure 1. Denoising real Sentinel-1 images over the region of Saclay (the origin
 image is available in figure 6.2(a)). Left column : denoised results ; middle column : residual
 ratio images ; right column : residuals evaluation results with displaying value range [0, 4].
 64 Sentinel-1 images are used.
+
+
+This method can highlight the areas, which still contain some texture, in the ratio image between the denoised data and the noisy data.
