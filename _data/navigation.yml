@@ -9,8 +9,8 @@ main:
   - title: "RABASAR"
     url: /RABASAR/ 
     
-   - title: "Residual Evaluation"
-    url: /talks/    
+#    - title: "Residual Evaluation"
+#     url: /talks/    
 
 #   - title: "Teaching"
 #     url: /teaching/    
