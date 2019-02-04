@@ -23,7 +23,7 @@ ratio images ; right column : residuals evaluation results with displaying value
 64 Sentinel-1 images are used.
 
 
-This method can highlight the areas, which still contain some texture, in the ratio image between the denoised data and the noisy data.
+This method can highlight the areas, which still contain some textures, in the ratio image between the denoised data and the noisy data.
 
 
 Code links
