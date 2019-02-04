@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-[*[1] Ratio-based Multi-temporal SAR Images Denoising: RABASAR*, Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F. (Accepted by IEEE Transactions on Geoscience and Remote Sensing). 2018.](2018-01-01-SAR-Decomposition1.md)
+[*[1] Ratio-based Multi-temporal SAR Images Denoising: RABASAR*, Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F. IEEE Transactions on Geoscience and Remote Sensing. 2019.](2018-01-01-SAR-Decomposition1.md)
 
 [[PDF]](http://WeiyingZhao.github.io/files/RatioSAR_denoising.pdf)[[BibTeX]](http://WeiyingZhao.github.io/files/2018-01-07-MultiTempDenoising.bib)
 
