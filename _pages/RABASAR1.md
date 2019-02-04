@@ -24,3 +24,8 @@ ratio images ; right column : residuals evaluation results with displaying value
 
 
 This method can highlight the areas, which still contain some texture, in the ratio image between the denoised data and the noisy data.
+
+
+Code links
+======
+Residual-evaluator: under preparation
