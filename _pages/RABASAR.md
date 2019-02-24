@@ -77,6 +77,6 @@ Code links
 ======
 [MuLog-BM3D](https://www.math.u-bordeaux.fr/~cdeledal/mulog.php): https://www.math.u-bordeaux.fr/~cdeledal/mulog.php
 
-RABASAR: under preparation
+[RABASAR](https://bitbucket.org/cdeledalle/rabasar) https://bitbucket.org/cdeledalle/rabasar
   
 
