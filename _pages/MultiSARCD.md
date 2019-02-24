@@ -32,7 +32,7 @@ To distinguish  appearing and disappearing changes, we used a signum function si
 Figure 2. Cumulative change detection results. (a) ratio image between two different date, (b) cumulative changes without object weights, (c) cumulative changes with object weights which are used to suppress farmland area changes. The thresholds chosen for column (b) with Pfa=0.54% and Pfa=1% for column (c). The farmland areas boundaries are index using yellow line which is prepared manualy. The time intervals of the changes are shown above. Different colors  represent the decrease and increase of the backscattering values. The temporal images are denoised using RABASAR-DAM method.
 
 
-# 3. Change classification
+# 3. Change type classification
 
 During the time series acquisition, the changes may occur multiple times and in different change magnitudes. To detect the change types, we propose an improved change classification method inspired by NORCAMA method [Su et al., 2015] and spectral clustering method [Shi and Malik, 2000, Ng et al., 2002]. In practice, the change types are transferred into a partitioning problem and detected using spectral clustering.
 
