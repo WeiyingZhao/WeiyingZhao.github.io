@@ -68,7 +68,7 @@ References
 
 [2] Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J.M. and Tupin, F., 2018, July. RABASAR: A FAST RATIO BASED MULTI-TEMPORAL SAR DESPECKLING. In IEEE International Geoscience and Remote Sensing Symposium, IGARSS 2018.
 
-[3] Zhao, W., Denis, L., Deledalle, C.A., Maître, H., Nicolas, J-M. and Tupin, F. Ratio-based multi-temporal SAR images denoising, (under revision). 2018.
+[3] Zhao, W., Denis, L., Deledalle, C.A., Maître, H., Nicolas, J-M. and Tupin, F. Ratio-Based Multitemporal SAR Images Denoising: RABASAR. IEEE Transactions on Geoscience and Remote Sensing. 2019.
 
 
 
