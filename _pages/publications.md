@@ -19,7 +19,7 @@ author_profile: true
 
 [*[3] Multitemporal SAR images change detection and visualization using RABASAR and simplified GLR*, Zhao, W., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F. (under modification)]()
 
-[*[4] Patch based adaptive temporal filter and residual evaluation*, Zhao, W., Riot, P., Maître, H., Nicolas, J-M. and Tupin, F. (under modification)]()
+[*[4] Patch based adaptive temporal filter and residual evaluation*, Zhao, W., Riot, P., Maître, H., Nicolas, J-M. and Tupin, F. (under preparation)]()
 
 # 2. Conference
 
