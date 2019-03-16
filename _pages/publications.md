@@ -28,7 +28,7 @@ author_profile: true
 [[PDF]](http://WeiyingZhao.github.io/files/2018igarss-RABASAR.pdf) [[BibTeX]](http://WeiyingZhao.github.io/files/2018-07-22-igarss18RABASAR.bib)
 
 
-[*[6] Décomposition de séries temporelles d’images SAR pour la détection de changement*, Lobry, S.,  Denis, L., Tupin, F. and Zhao, W. Traitement du Signal (GRETSI, Lavoisier) (accepted)](2017-12-01-SAR-Decomposition.md)
+[*[6] Décomposition de séries temporelles d’images SAR pour la détection de changement*, Lobry, S.,  Denis, L., Tupin, F. and Zhao, W. Traitement du Signal (GRETSI, Lavoisier)](2017-12-01-SAR-Decomposition.md)
 
 [[BibTeX]](http://WeiyingZhao.github.io/files/2017SARDecomposition.bib)
 
