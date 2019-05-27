@@ -29,7 +29,7 @@ Vocational experience
     * Works: Polarization SAR data processing
 
 *  2015, [Junior research assistant](http://aims.cuhk.edu.hk/converis/portal/Person/6134545?auxfun=&lang=en_GB), [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html), Hong Kong
-    * Duration: 10 months;
+    * Duration: 7 months;
     * Works: InSAR data processing and programming
 
 
