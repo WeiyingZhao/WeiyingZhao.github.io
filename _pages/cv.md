@@ -25,8 +25,7 @@ Education
 Vocational experience
 ======
 *  2019, Research fellow at [University College London](https://www.ucl.ac.uk/), London
-    * Works: Time series missing value imputation (regression, forecasting, RF, LSTM/BiLSTM),   
-             multisensor time series images fusion (SAR/optical).
+    * Works: Time series missing value imputation (regression, forecasting, RF, LSTM/BiLSTM), multisensor time series images fusion (SAR/optical).
     
 *  2015, [Junior research assistant](http://aims.cuhk.edu.hk/converis/portal/Person/6134545?auxfun=&lang=en_GB), [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html), Hong Kong
     * Duration: 7 months;
