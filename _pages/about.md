@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research fellow at [University College London](https://www.ucl.ac.uk/), working in the group lead by [Prof. Philip Lewis](https://www.geog.ucl.ac.uk/people/academic-staff/philip-lewis).
+I am a research fellow at [University College London](https://www.ucl.ac.uk/), working in the remote sensing group lead by [Prof. Philip Lewis](https://www.geog.ucl.ac.uk/people/academic-staff/philip-lewis).
 I did my PhD at [Télécom ParisTech (LTCI/IMAGES)](https://www.telecom-paristech.fr/) under the supervision of [Prof. Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Prof. Henri Maître](https://perso.telecom-paristech.fr/maitre/).
 
 
