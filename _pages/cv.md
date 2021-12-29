@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-*  PhD of Signal and Image Processing, Télécom ParisTech, December, 2015- January, 2019
+<!-- *  PhD of Signal and Image Processing, Télécom ParisTech, December, 2015- January, 2019
     * Thesis: SAR time series despeckling and change detection
     
 *  MSc of Geodesy and Survey Engineering, China University of Mining and Technology (CUMT), 2012--2015.
@@ -19,12 +19,40 @@ Education
     
 *  BEng of Surveying and Mapping Engineering, CUMT, 2008--2012
     * Thesis: Comparing and analyzing polarization SAR vegetation classification methods
+ -->
+*  2015-2019, Ph.D. in Signal and Image Processing, IMAGES/LTCI, Télécom ParisTech
+*  2012–2015 Master of Science, Department of Spatial Information and Digital Technology, China University of Mining
+and Technology (CUMT)
+*  2008–2012 Bachelor of Science, Department of Spatial Information and Digital Technology, CUMT (Ranking : 4/160)
 
 
 
 Vocational experience
 ======
-*  2019, Research fellow at [University College London](https://www.ucl.ac.uk/), London
+* December 2020 - Present, Machine learning researcher | Deep Planet, LONDON, UK
+    * Using AttentionU-Net and high-resolution opticalremote sensing images to find Frankincense trees in
+    the Somaliland, with a small number of training sets, the detection accuracy can reach 90%. This task
+    was completed in cooperation with researchers from a computer vision group at Oxford University.
+    * Multi-sensor time series missing value imputation with attention Conv-BiLSTM network. With the processed data, we can monitor vegetation with high-precision (10m) and high-frequency (5 days) data
+    during the rainy season.
+    * Improved the Savitzky-golay time series filtering method. The improved method allows us to retain
+    useful temporal features.
+    * Based on historical yield information, we used the Random Forest method to forecast the yield of
+    grapes.
+
+* July 2019 - November 2020, Research Fellow | University College London, LONDON, UK
+    * Time series missing value imputation (regression, RF, LSTM/BiLSTM) with multisensor data
+    * Multisensor time-series images (SAR/optical) fusion with 3D coherent radiative transfer model
+    * Time-series forecasting with dual-stage attention-based RNNs
+    * Algorithm evaluation over Google Cloud
+
+* May 2015 - November 2015 Research assistant | The Chinese University of Hong Kong, HONG KONG, China
+    * Time-series images processing and software development
+    * Phase unwrapping with Minimum Cost Flow (MCF) optimization method
+
+
+
+<!-- *  2019, Research fellow at [University College London](https://www.ucl.ac.uk/), London
     * Works: Time series missing value imputation (regression, forecasting, RF, LSTM/BiLSTM), multisensor time series images fusion (SAR/optical).
     
 *  2015, [Junior research assistant](http://aims.cuhk.edu.hk/converis/portal/Person/6134545?auxfun=&lang=en_GB), [Chinese University of Hong Kong](http://www.cuhk.edu.hk/english/index.html), Hong Kong
@@ -33,7 +61,7 @@ Vocational experience
     
 *  2012, Internship at [Chinese Academy of Surveying and mapping](http://english.casm.ac.cn/), Beijing
     * Duration: 7 months;
-    * Works: Polarization SAR data processing
+    * Works: Polarization SAR data processing -->
 
 
 
@@ -41,9 +69,16 @@ Vocational experience
   
 Main Skills
 ======
-* Programming: MATLAB, Python, C, C++, Pytorch.
+*  Programming Python: (NumPy, SciPy, Pandas, Matplotlib, scikit-learn), C++ (Armadillo), MATLAB, JavaScript
+*  Deep learning frameworks: Keras, TensorFlow, PyTorch, MATLAB Deep Learning Toolbox
+*  Operating systems: Windows, GNU/Linux (Debian/ubuntu), macOS
+*  Cloud platform: Google Cloud (GCP/GEE/Colab), AWS
+*  Data base: SQL
+*  Other: LATEX, Docker, Postman, JIRA, Git, Bitbucket, Confluence, OpenOffice, GAMMA, ArcGIS
+
+<!-- * Programming: MATLAB, Python, C, C++, Pytorch.
 * Tools: LaTeX, OpenOffice, Microsoft Window, Linux, Sentinel ToolBoxes, PolSARpro, ENVI.
-* Languages: Chinese, English, French (basic).
+* Languages: Chinese, English, French (basic). -->
 
 
 <!---
