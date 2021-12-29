@@ -46,7 +46,7 @@ Vocational experience
     * Time-series forecasting with dual-stage attention-based RNNs
     * Algorithm evaluation over Google Cloud
 
-* May 2015 - November 2015 Research assistant | The Chinese University of Hong Kong, HONG KONG, China
+* May 2015 - November 2015, Research assistant | The Chinese University of Hong Kong, HONG KONG, China
     * Time-series images processing and software development
     * Phase unwrapping with Minimum Cost Flow (MCF) optimization method
 
