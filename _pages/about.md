@@ -7,16 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a research fellow at [University College London](https://www.ucl.ac.uk/), working in the remote sensing group lead by [Prof. Philip Lewis](https://www.geog.ucl.ac.uk/people/academic-staff/philip-lewis).
-I did my PhD at [Télécom ParisTech (LTCI/IMAGES)](https://www.telecom-paristech.fr/) under the supervision of [Prof. Florence Tupin](https://perso.telecom-paristech.fr/tupin/) and [Prof. Henri Maître](https://perso.telecom-paristech.fr/maitre/).
+I am a Machine Learning Researcher at Deep Planet.
 
+I mainly develop machine learning algorithms to extract useful information from images. My main research interests include time series image analysis(regression/forecasting/missing value imputation/denoising/change analysis), image processing, machine learning and applied mathematics.
 
-My main research interests include multitemporal
-remote sensing image analysis, signal processing, image processing, pattern recognition, and
-machine learning.
+I completed my postdoctoral work at University College London, where I did multisensor missing value imputation and vegetation monitoring with a radiative transfer model. I got a PhD in signal and image processing at Télécom ParisTech (LTCI/IMAGES). The work I did during my PhD related to applying machine learning methods to multisensor multitemporal images processing.
 
-
-My PhD thesis mainly deals with multitemporal synthetic aperture radar image denoising and change detection.
 
 
 
