@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+#   - title: "Publications"
+#     url: /publications/
     
   - title: "CV"
     url: /cv/
+    
+ - title: "Recent-Eperiments"
+    url: /Otherexperiments/
     
   - title: "RABASAR"
     url: /RABASAR/ 
@@ -13,7 +16,12 @@ main:
     url: /RABASAR1/ 
     
   - title: "Temporal Average"
-    url: /RABASAR2/     
+    url: /RABASAR2/    
+    
+ - title: "Multi-SAR-CD"
+    url: /MultiSARCD/
+    
+
     
 #    - title: "Residual Evaluation"
 #     url: /talks/    
@@ -35,8 +43,4 @@ main:
 #   - title: "Temporal Weighted Average"
 #    url: /TemporalWeightedAverage/
     
-  - title: "Multi-SAR-CD"
-    url: /MultiSARCD/
-    
-  - title: "Other Eperiments"
-    url: /Otherexperiments/
+
