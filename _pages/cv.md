@@ -29,7 +29,7 @@ and Technology (CUMT)
 
 Vocational experience
 ======
-*December 2020 - Present, Machine learning researcher, Deep Planet, LONDON, UK 
+* December 2020 - Present, Machine learning researcher, Deep Planet, LONDON, UK 
     * Using AttentionU-Net and high-resolution opticalremote sensing images to find Frankincense trees in
     the Somaliland, with a small number of training sets, the detection accuracy can reach 90%. This task
     was completed in cooperation with researchers from a computer vision group at Oxford University.
@@ -40,13 +40,13 @@ Vocational experience
     * Based on historical yield information, we used the Random Forest method to forecast the yield of
     grapes.
 
-*July 2019 - November 2020, Research Fellow | University College London, LONDON, UK
+* July 2019 - November 2020, Research Fellow | University College London, LONDON, UK
     * Time series missing value imputation (regression, RF, LSTM/BiLSTM) with multisensor data
     * Multisensor time-series images (SAR/optical) fusion with 3D coherent radiative transfer model
     * Time-series forecasting with dual-stage attention-based RNNs
     * Algorithm evaluation over Google Cloud
 
-*May 2015 - November 2015, Research assistant | The Chinese University of Hong Kong, HONG KONG, China
+* May 2015 - November 2015, Research assistant | The Chinese University of Hong Kong, HONG KONG, China
     * Time-series images processing and software development
     * Phase unwrapping with Minimum Cost Flow (MCF) optimization method
 
