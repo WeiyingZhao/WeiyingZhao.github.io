@@ -44,12 +44,12 @@ Vocational experience
 
 Main Skills
 ======
-*  Programming Python: (NumPy, SciPy, Pandas, Matplotlib, scikit-learn), C++ (Armadillo), MATLAB, JavaScript
-*  Deep learning frameworks: Keras, TensorFlow, PyTorch, MATLAB Deep Learning Toolbox
-*  Operating systems: Windows, GNU/Linux (Debian/ubuntu), macOS
-*  Cloud platform: Google Cloud (GCP/GEE/Colab), AWS
-*  Data base: SQL
-*  Other: LATEX, Docker, Postman, JIRA, Git, Bitbucket, Confluence, OpenOffice, GAMMA, ArcGIS
+*  **Programming Python**: (NumPy, SciPy, Pandas, Matplotlib, scikit-learn), C++ (Armadillo), MATLAB, JavaScript
+*  **Deep learning frameworks**: Keras, TensorFlow, PyTorch, MATLAB Deep Learning Toolbox
+*  **Operating systems**: Windows, GNU/Linux (Debian/ubuntu), macOS
+*  **Cloud platform**: AWS services(AWS Lambda, EC2, S3), Google Cloud (GCP/GEE/Colab)
+*  **Data base**: SQL
+*  **Other**: LATEX, Docker, Postman, JIRA, Git, Bitbucket, Confluence, OpenOffice, GAMMA, ArcGIS
 
 
 Publications
