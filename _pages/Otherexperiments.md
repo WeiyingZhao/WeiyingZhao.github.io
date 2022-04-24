@@ -40,4 +40,5 @@ obtaining the topological relationship among the sensor 1 and its surrounding se
 In the future, we are going to add multisensor information to the model to include the spatial variance.
 
 [1]Zhao, L., Song, Y., Zhang, C., Liu, Y., Wang, P., Lin, T., Deng, M. and Li, H., 2019. T-gcn: A temporal graph convolutional network for traffic prediction. IEEE Transactions on Intelligent Transportation Systems, 21(9), pp.3848-3858.
+
 [2]Yu, B., Yin, H. and Zhu, Z., 2017. Spatio-temporal graph convolutional networks: A deep learning framework for traffic forecasting. arXiv preprint arXiv:1709.04875.
