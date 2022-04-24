@@ -35,7 +35,7 @@ When the soil moisture sensor is disconnected from the server, we may lose a lar
 
 Figure 3. Geolocation of different sensors measuring the same information at same time steps. 
 (a) The blue sensors indicate the sensors close to the central sensor. (b) We obtain the spatial features by
-obtaining the topological relationship among the sensor 1 and its surrounding sensors.
+obtaining the topological relationship among the sensor 1 and its surrounding sensors [1]
 
 In the future, we are going to add multisensor information to the model to include the spatial variance.
 
