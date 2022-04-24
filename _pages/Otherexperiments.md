@@ -29,7 +29,7 @@ In this method, the CNN is used to extract deep features from the time‐series 
 
 # 3. Multi-location multi-sensor time series missing value imputation
 
-When the soil moisture sensor is disconnected from the server, we may lose a large amount of time series data, resulting in the loss of spatial soil moisture variance. Given the history of soil moisture measured nearby, we successfully applied a GNN-LSTM network to impute missing values.
+When the soil moisture sensor is disconnected from the server, we may lose a large amount of time series data, resulting in the loss of spatial soil moisture variance. Given the history of soil moisture data measured nearby, we successfully applied a GNN-LSTM network to impute missing values.
 
 ![Attention_BiLSTM](/images/GNN_flowchart.png)
 
