@@ -54,9 +54,11 @@ Main Skills
 
 Publications
 ======
-[1] Ratio-based Multi-temporal SAR Images Denoising: RABASAR, Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F. IEEE Transactions on Geoscience and Remote Sensing. 2019: 3552-3565.
+[1] Combining multitemporal optical and SAR data for LAI imputation with BiLSTM network, Zhao, W., Yin, F., Ma, H., Wu, Q., Gómez-Dans, J.L., Lewis, P.E., 2020. arXiv:2307.07434
 
-[2] Multitemporal SAR images change detection and visualization using RABASAR and simplified GLR, Zhao, W., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F. (under modification)
+[2] Ratio-based Multi-temporal SAR Images Denoising: RABASAR, Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F. IEEE Transactions on Geoscience and Remote Sensing. 2019: 3552-3565.
+
+[2] Multitemporal SAR images change detection and visualization using RABASAR and simplified GLR, Zhao, W., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F., 2019. arXiv:2307.07892
 
 [3] Patch based adaptive temporal filter and residual evaluation, Zhao, W., Riot, P., Maître, H., Nicolas, J-M. and Tupin, F. (results can be seen on the website)
 
