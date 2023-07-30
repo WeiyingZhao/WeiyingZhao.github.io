@@ -58,15 +58,15 @@ Publications
 
 [2] Ratio-based Multi-temporal SAR Images Denoising: RABASAR, Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F. IEEE Transactions on Geoscience and Remote Sensing. 2019: 3552-3565.
 
-[2] Multitemporal SAR images change detection and visualization using RABASAR and simplified GLR, Zhao, W., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F., 2019. arXiv:2307.07892
+[3] Multitemporal SAR images change detection and visualization using RABASAR and simplified GLR, Zhao, W., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F., 2019. arXiv:2307.07892
 
-[3] Patch based adaptive temporal filter and residual evaluation, Zhao, W., Riot, P., Maître, H., Nicolas, J-M. and Tupin, F. (results can be seen on the website)
+[4] Patch based adaptive temporal filter and residual evaluation, Zhao, W., Riot, P., Maître, H., Nicolas, J-M. and Tupin, F. (results can be seen on the website)
 
-[4] RABASAR: A FAST RATIO BASED MULTI-TEMPORAL SAR DESPECKLING, Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F. IEEE International Geoscience and Remote Sensing Symposium (IGARSS’2018). Valencia, Spain. July 2018.
+[5] RABASAR: A FAST RATIO BASED MULTI-TEMPORAL SAR DESPECKLING, Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F. IEEE International Geoscience and Remote Sensing Symposium (IGARSS’2018). Valencia, Spain. July 2018.
 
-[5] Décomposition de séries temporelles d’images SAR pour la détection de changement, Lobry, S., Denis, L., Tupin, F. and Zhao, W. Traitement du Signal (GRETSI, Lavoisier)
+[6] Décomposition de séries temporelles d’images SAR pour la détection de changement, Lobry, S., Denis, L., Tupin, F. and Zhao, W. Traitement du Signal (GRETSI, Lavoisier)
 
-[6] Urban area change detection based on generalized likelihood ratio test, Zhao, W., Lobry, S., Maitre, H., Nicolas, J.M. and Tupin, F. 9th International Workshop on the Analysis of Multitemporal Remote Sensing Images (MultiTemp’2017). Bruges, Belgium. June 2017.
+[7] Urban area change detection based on generalized likelihood ratio test, Zhao, W., Lobry, S., Maitre, H., Nicolas, J.M. and Tupin, F. 9th International Workshop on the Analysis of Multitemporal Remote Sensing Images (MultiTemp’2017). Bruges, Belgium. June 2017.
 
 <!---
 Publications
