@@ -56,7 +56,7 @@ Publications
 ======
 [1] Zhao, W. and Efremova, N., 2024. Prediction of Sentinel-2 multi-band imagery with attention BiLSTM for continuous earth surface monitoring (submitted)
 
-[2] Zhao, W., Chuluunbat, G., Unagaev, A. and Efremova, N., 2024. Soil nitrogen forecasting from environmental variables provided by multisensor remote sensing images. https://arxiv.org/abs/2406.09812
+[2] Zhao, W., Chuluunbat, G., Unagaev, A. and Efremova, N., 2024. Soil nitrogen forecasting from environmental variables provided by multisensor remote sensing images. arXiv preprint arXiv:2406.09812
 
 [3] Zhao, W. and Efremova, N., 2024. Grapevine Disease Prediction Using Climate Variables from Multi-Sensor Remote Sensing Imagery via a Transformer Model. arXiv preprint arXiv:2406.07094.
 
