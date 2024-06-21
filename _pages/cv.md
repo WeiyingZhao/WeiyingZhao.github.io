@@ -54,19 +54,29 @@ Main Skills
 
 Publications
 ======
-[1] Combining multitemporal optical and SAR data for LAI imputation with BiLSTM network, Zhao, W., Yin, F., Ma, H., Wu, Q., Gómez-Dans, J.L., Lewis, P.E., 2020. arXiv:2307.07434
+[1] Zhao, W. and Efremova, N., 2024. Prediction of Sentinel-2 multi-band imagery with attention BiLSTM for continuous earth surface monitoring (submitted)
 
-[2] Ratio-based Multi-temporal SAR Images Denoising: RABASAR, Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F. IEEE Transactions on Geoscience and Remote Sensing. 2019: 3552-3565.
+[2] Zhao, W., Chuluunbat, G., Unagaev, A. and Efremova, N., 2024. Soil nitrogen forecasting from environmental variables provided by multisensor remote sensing images. https://arxiv.org/abs/2406.09812
 
-[3] Multitemporal SAR images change detection and visualization using RABASAR and simplified GLR, Zhao, W., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F., 2019. arXiv:2307.07892
+[3] Zhao, W. and Efremova, N., 2024. Grapevine Disease Prediction Using Climate Variables from Multi-Sensor Remote Sensing Imagery via a Transformer Model. arXiv preprint arXiv:2406.07094.
 
-[4] Patch based adaptive temporal filter and residual evaluation, Zhao, W., Riot, P., Maître, H., Nicolas, J-M. and Tupin, F. (results can be seen on the website)
+[4] Zhao, W., Unagaev, A. and Efremova, N., 2024. Vineyard detection from multitemporal Sentinel-2 images with a Transformer model (No. EGU24-20025). Copernicus Meetings.
 
-[5] RABASAR: A FAST RATIO BASED MULTI-TEMPORAL SAR DESPECKLING, Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J-M. and Tupin, F. IEEE International Geoscience and Remote Sensing Symposium (IGARSS’2018). Valencia, Spain. July 2018.
+[5] Zhao, W. and Efremova, N., 2023. Soil Organic Carbon Estimation from Climate-related Features with Graph Neural Network. arXiv preprint arXiv:2311.15979.
 
-[6] Décomposition de séries temporelles d’images SAR pour la détection de changement, Lobry, S., Denis, L., Tupin, F. and Zhao, W. Traitement du Signal (GRETSI, Lavoisier)
+[6] Zhao, W., Yin, F., Ma, H., Wu, Q., Gomez-Dans, J. and Lewis, P., 2023. Combining multitemporal optical and SAR data for LAI imputation with BiLSTM network. arXiv preprint arXiv:2307.07434.
 
-[7] Urban area change detection based on generalized likelihood ratio test, Zhao, W., Lobry, S., Maitre, H., Nicolas, J.M. and Tupin, F. 9th International Workshop on the Analysis of Multitemporal Remote Sensing Images (MultiTemp’2017). Bruges, Belgium. June 2017.
+[7] Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J.M. and Tupin, F., 2019. Ratio-based multitemporal SAR images denoising: RABASAR. IEEE Transactions on Geoscience and Remote Sensing, 57(6), pp.3552-3565.
+
+[8] Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J.M. and Tupin, F., 2023. Multitemporal SAR images change detection and visualization using RABASAR and simplified GLR. arXiv preprint arXiv:2307.078
+
+[9] Zhao, W., Riot, P., Deledalle, C.A., Maître, H., Nicolas, J.M. and Tupin, F., 2024. Patch-based adaptive temporal filter and residual evaluation. arXiv preprint arXiv:2402.09561.
+
+[10] Zhao, W., Deledalle, C.A., Denis, L., Maître, H., Nicolas, J.M. and Tupin, F., 2018, July. RABASAR: A fast ratio based multi-temporal SAR despeckling. In IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium (pp. 4197-4200). IEEE.
+
+[11] Lobry, S., Denis, L., Zhao, W. and Tupin, F., 2017. Décomposition de séries temporelles d'images SAR pour la détection de changement. Traitement du Signal, 34.
+
+[12] Zhao, W., Lobry, S., Maitre, H., Nicolas, J.M. and Tupin, F., 2017, June. Urban area change detection based on generalized likelihood ratio test. In 2017 9th International Workshop on the Analysis of Multitemporal Remote Sensing Images (MultiTemp) (pp. 1-4). IEEE.
 
 <!---
 Publications
