@@ -21,7 +21,7 @@ and Technology (CUMT)
 
 Vocational experience
 ======
-* December 2020 - Present, **Machine learning researcher**, Deep Planet, LONDON, UK 
+* December 2020 - Present, **Senior Machine Learning Researcher**, Deep Planet, LONDON, UK 
     * Using AttentionU-Net and high-resolution opticalremote sensing images to find Frankincense trees in
     the Somaliland, with a small number of training sets, the detection accuracy can reach 90%. This task
     was completed in cooperation with researchers from a computer vision group at Oxford University.
@@ -45,7 +45,7 @@ Vocational experience
 Main Skills
 ======
 *  **Programming Python**: (NumPy, SciPy, Pandas, Matplotlib, scikit-learn), C++ (Armadillo), MATLAB, JavaScript
-*  **Machine learning frameworks**: Scikit-learn, XGBoost, Keras, TensorFlow, PyTorch, MATLAB Deep Learning Toolbox
+*  **Machine learning frameworks**: Keras, TensorFlow, PyTorch, Scikit-learn, XGBoost, MATLAB Deep Learning Toolbox
 *  **Operating systems**: GNU/Linux (Debian/ubuntu),  Windows, macOS
 *  **Cloud platform**: AWS services(AWS Lambda, EC2, S3), Google Cloud (GCP/GEE/Colab)
 *  **Data base**: SQL
