@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Machine Learning Researcher at Deep Planet.
+I am a Senior Machine Learning Researcher at Deep Planet.
 
 I mainly develop machine learning algorithms to extract useful information from images. My main research interests include time series image analysis(regression/forecasting/missing value imputation/denoising/change analysis), image processing, machine learning and applied mathematics.
 
