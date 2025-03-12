@@ -47,8 +47,16 @@ In the future, we are going to add multisensor information to the model to inclu
 
 Recent wildfires can rapidly transform landscapes, creating extensive burned areas that evolve over time. In events such as the wildfire that swept through Ma On Shan, Hong Kong, timely and precise monitoring of both the spatial extent and temporal evolution of the burn scar is critical for guiding emergency response, ecological restoration, and long‐term land management efforts.
 
-<img src="/images/wildfire_area.jpg" alt="S2NDVI smooth" width="400" height="400">
-<img src="/images/Sentinel2_image.jpg" alt="S2NDVI smooth" width="400" height="400">
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/wildfire_area.jpg" alt="Wildfire area" width="400" height="400">
+    <figcaption>(a) Wildfire area</figcaption>
+  </figure>
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/Sentinel2_image.jpg" alt="Sentinel-2 image" width="400" height="400">
+    <figcaption>(b) Sentinel-2 image</figcaption>
+  </figure>
+</div>
 
 Figure 4. Wildfire monitoring with a simplified generalized likelihood ratio test over Ma On Shan, Hong Kong 
 
