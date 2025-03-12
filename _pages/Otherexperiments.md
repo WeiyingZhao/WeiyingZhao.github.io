@@ -76,7 +76,7 @@ Detecting changes in aquaculture areas is crucial for ensuring environmental sus
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/urban_area_change_detection.png" alt="urban_area_change_detection" width="800" height="340">
+    <img src="/images/urban_area_change_detection.png" alt="urban_area_change_detection" width="800" height="440">
   </figure>
 </div>
 
