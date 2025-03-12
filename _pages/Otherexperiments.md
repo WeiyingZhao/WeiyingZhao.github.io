@@ -68,7 +68,7 @@ This method offers a promising solution for such challenges by leveraging multit
   </figure>
 </div>
 
-Figure 5. Aquaculture area change detection using multitemporal SAR images
+Figure 5. Aquaculture area change detection using multitemporal SAR images. Left: Temporal average, Right: change time visualization results.
 
 Detecting changes in aquaculture areas is crucial for ensuring environmental sustainability and effective management. It helps monitor water quality, sedimentation, and ecosystem health, enabling early detection of potential issues like eutrophication or harmful algal blooms. Such monitoring also aids in the timely identification of infrastructure damage or disease outbreaks, which is essential for maintaining the economic viability of aquaculture operations. We can effectively detect these changes using multitemporal SAR images change detection methods, which provide near real-time, weather-independent data for informed decision-making.
 
@@ -80,7 +80,7 @@ Detecting changes in aquaculture areas is crucial for ensuring environmental sus
   </figure>
 </div>
 
-Figure 6. Building area change detection using high-resolution multitemporal SAR images
+Figure 6. Building area change detection using high-resolution multitemporal SAR images. Left: Temporal average, Right: change time visualization results.
 
 
 Detecting changes in urban areas is essential for understanding and managing rapid urban growth, infrastructure modifications, and environmental impacts. Such change detection supports urban planning, helps update city data, and guides decision-making for sustainable development and disaster response. Multitemporal SAR image change detection methods are particularly valuable because they allow continuous monitoring regardless of weather or lighting conditions, providing timely, reliable insights into how cities evolve over time.
