@@ -48,6 +48,8 @@ In the future, we are going to add multisensor information to the model to inclu
 Recent wildfires can rapidly transform landscapes, creating extensive burned areas that evolve over time. In events such as the wildfire that swept through Ma On Shan, Hong Kong, timely and precise monitoring of both the spatial extent and temporal evolution of the burn scar is critical for guiding emergency response, ecological restoration, and long‐term land management efforts.
 
 ![wildfire_sglrt](/images/Sentinel2_image.jpg)
+<img src="/images/Sentinel2_image.jpg" alt="S2NDVI smooth" width="600" height="400">
+Figure 4. Wildfire monitoring with a simplified generalized likelihood ratio test over Ma On Shan, Hong Kong 
 
 This method offers a promising solution for such challenges by leveraging multitemporal Synthetic Aperture Radar (SAR) imagery. Unlike optical sensors, SAR can image the surface regardless of cloud cover or smoke and it can penetrate the canopy, making it ideal for monitoring wildfires. The approach uses a denoising technique (RABASAR) to reduce speckle noise—a common challenge in SAR data—and applies a simplified generalized likelihood ratio (SGLR) test to detect changes between images acquired at different times. This not only helps delineate the change area (i.e. the burned region) but also estimates key change time parameters such as the start, maximum, and stop times of the change process. By integrating these capabilities, the method can produce a detailed, temporally resolved map of wildfire progression and recovery.
 
