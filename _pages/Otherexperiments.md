@@ -50,11 +50,9 @@ Recent wildfires can rapidly transform landscapes, creating extensive burned are
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure style="margin: 0; text-align: center;">
     <img src="/images/wildfire_area.jpg" alt="Wildfire area" width="400" height="400">
-    <!-- <figcaption>(a) Wildfire area</figcaption> -->
   </figure>
   <figure style="margin: 0; text-align: center;">
     <img src="/images/Sentinel2_image.jpg" alt="Sentinel-2 image" width="400" height="400">
-    <!-- <figcaption>(b) Sentinel-2 image</figcaption> -->
   </figure>
 </div>
 
@@ -62,3 +60,37 @@ Figure 4. Wildfire monitoring with a simplified generalized likelihood ratio tes
 
 This method offers a promising solution for such challenges by leveraging multitemporal Synthetic Aperture Radar (SAR) imagery. Unlike optical sensors, SAR can image the surface regardless of cloud cover or smoke and it can penetrate the canopy, making it ideal for monitoring wildfires. The approach uses a denoising technique (RABASAR) to reduce speckle noise—a common challenge in SAR data—and applies a simplified generalized likelihood ratio (SGLR) test to detect changes between images acquired at different times. This not only helps delineate the change area (i.e. the burned region) but also estimates key change time parameters such as the start, maximum, and stop times of the change process. By integrating these capabilities, the method can produce a detailed, temporally resolved map of wildfire progression and recovery.
 
+# 5. Detecting changes in aquaculture areas 
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/water_area_change_monitoring.png" alt="water_area_change_monitoring" width="800" height="240">
+  </figure>
+</div>
+
+Figure 5. Aquaculture area change detection using multitemporal SAR images
+
+Detecting changes in aquaculture areas is crucial for ensuring environmental sustainability and effective management. It helps monitor water quality, sedimentation, and ecosystem health, enabling early detection of potential issues like eutrophication or harmful algal blooms. Such monitoring also aids in the timely identification of infrastructure damage or disease outbreaks, which is essential for maintaining the economic viability of aquaculture operations. We can effectively detect these changes using multitemporal SAR images change detection methods, which provide near real-time, weather-independent data for informed decision-making.
+
+# 6. Urban areas change detection
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/urban_area_change_detection.png" alt="urban_area_change_detection" width="800" height="240">
+  </figure>
+</div>
+
+Figure 6. Building area change detection using multitemporal SAR images
+
+
+Detecting changes in urban areas is essential for understanding and managing rapid urban growth, infrastructure modifications, and environmental impacts. Such change detection supports urban planning, helps update city data, and guides decision-making for sustainable development and disaster response. Multitemporal SAR image change detection methods are particularly valuable because they allow continuous monitoring regardless of weather or lighting conditions, providing timely, reliable insights into how cities evolve over time.
+
+# 7. Flooding area visualization with RGB combination 
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <figure style="margin: 0; text-align: center;">
+    <img src="/images/flooding_area_monitoring.jpg" alt="flooding_area_monitoring" width="800" height="240">
+  </figure>
+</div>
+
+Figure 7. Water area change visualization using RGB combination method based on 2 adjacent acquired SAR image (R: earlier acquisition, G: new acquisition, B: earlier acquisition). Magenta is the appearing water area, green is the area with increased backscattering values, and no additional color is added if there’s no change. Before combining the images, both SAR acquisitions are calibrated and coregistered to ensure they are aligned pixel‐to‐pixel. This step is crucial because even slight misalignments can create false change signals. No denoising method is needed if only visualize the change areas.
