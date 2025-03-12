@@ -50,11 +50,11 @@ Recent wildfires can rapidly transform landscapes, creating extensive burned are
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure style="margin: 0; text-align: center;">
     <img src="/images/wildfire_area.jpg" alt="Wildfire area" width="400" height="400">
-    <figcaption>(a) Wildfire area</figcaption>
+    <!-- <figcaption>(a) Wildfire area</figcaption> -->
   </figure>
   <figure style="margin: 0; text-align: center;">
     <img src="/images/Sentinel2_image.jpg" alt="Sentinel-2 image" width="400" height="400">
-    <figcaption>(b) Sentinel-2 image</figcaption>
+    <!-- <figcaption>(b) Sentinel-2 image</figcaption> -->
   </figure>
 </div>
 
