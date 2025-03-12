@@ -58,7 +58,7 @@ Recent wildfires can rapidly transform landscapes, creating extensive burned are
   </figure>
 </div>
 
-Figure 4. Wildfire monitoring with a simplified generalized likelihood ratio test over Ma On Shan, Hong Kong 
+Figure 4. Wildfire monitoring with a simplified generalized likelihood ratio test over Ma On Shan, Hong Kong. Left: Wildfire area, Right: Sentinel-2 image acquired after the fire.
 
 This method offers a promising solution for such challenges by leveraging multitemporal Synthetic Aperture Radar (SAR) imagery. Unlike optical sensors, SAR can image the surface regardless of cloud cover or smoke and it can penetrate the canopy, making it ideal for monitoring wildfires. The approach uses a denoising technique (RABASAR) to reduce speckle noise—a common challenge in SAR data—and applies a simplified generalized likelihood ratio (SGLR) test to detect changes between images acquired at different times. This not only helps delineate the change area (i.e. the burned region) but also estimates key change time parameters such as the start, maximum, and stop times of the change process. By integrating these capabilities, the method can produce a detailed, temporally resolved map of wildfire progression and recovery.
 
