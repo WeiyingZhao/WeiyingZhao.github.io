@@ -76,11 +76,11 @@ Detecting changes in aquaculture areas is crucial for ensuring environmental sus
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <figure style="margin: 0; text-align: center;">
-    <img src="/images/urban_area_change_detection.png" alt="urban_area_change_detection" width="800" height="240">
+    <img src="/images/urban_area_change_detection.png" alt="urban_area_change_detection" width="800" height="340">
   </figure>
 </div>
 
-Figure 6. Building area change detection using multitemporal SAR images
+Figure 6. Building area change detection using high-resolution multitemporal SAR images
 
 
 Detecting changes in urban areas is essential for understanding and managing rapid urban growth, infrastructure modifications, and environmental impacts. Such change detection supports urban planning, helps update city data, and guides decision-making for sustainable development and disaster response. Multitemporal SAR image change detection methods are particularly valuable because they allow continuous monitoring regardless of weather or lighting conditions, providing timely, reliable insights into how cities evolve over time.
