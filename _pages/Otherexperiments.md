@@ -87,10 +87,6 @@ Detecting changes in urban areas is essential for understanding and managing rap
 
 # 7. Flooding area visualization with RGB combination 
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <figure style="margin: 0; text-align: center;">
-    <img src="/images/flooding_area_monitoring.jpg" alt="flooding_area_monitoring" width="800" height="240">
-  </figure>
-</div>
+<img src="/images/flooding_area_monitoring.jpg" alt="flooding_area_monitoring" width="800" height="200">
 
 Figure 7. Water area change visualization using RGB combination method based on 2 adjacent acquired SAR image (R: earlier acquisition, G: new acquisition, B: earlier acquisition). Magenta is the appearing water area, green is the area with increased backscattering values, and no additional color is added if there’s no change. Before combining the images, both SAR acquisitions are calibrated and coregistered to ensure they are aligned pixel‐to‐pixel. This step is crucial because even slight misalignments can create false change signals. No denoising method is needed if only visualize the change areas.
